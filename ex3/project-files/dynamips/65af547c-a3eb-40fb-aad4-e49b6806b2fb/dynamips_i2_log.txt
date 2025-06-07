@@ -1,0 +1,42 @@
+May 07 23:58:46.352 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+May 07 23:58:46.354 HYPERVISOR: Started on IP = localhost, TCP port = 59992.
+May 07 23:58:46.838 HYPERVISOR: exec_cmd: hypervisor version 
+May 07 23:58:46.840 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex3\project-files\dynamips 
+May 07 23:58:46.840 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex3\project-files\dynamips
+May 07 23:58:46.841 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex3\project-files\dynamips\9aac851d-ebc8-4563-97db-988c76cd6759 
+May 07 23:58:46.841 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex3\project-files\dynamips\9aac851d-ebc8-4563-97db-988c76cd6759
+May 07 23:58:46.841 HYPERVISOR: exec_cmd: vm create R2 2 c3745 
+May 07 23:58:46.843 VM: VM R2 created.
+May 07 23:58:46.844 HYPERVISOR: exec_cmd: vm set_con_tcp_port R2 5001 
+May 07 23:58:46.845 HYPERVISOR: exec_cmd: c3745 get_mac_addr R2 
+May 07 23:58:46.846 HYPERVISOR: exec_cmd: vm set_ios R2 C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.image 
+May 07 23:58:46.847 HYPERVISOR: exec_cmd: vm set_exec_area R2 64 
+May 07 23:58:46.848 HYPERVISOR: exec_cmd: vm set_ram R2 256 
+May 07 23:58:46.849 HYPERVISOR: exec_cmd: vm set_nvram R2 256 
+May 07 23:58:46.850 HYPERVISOR: exec_cmd: vm set_disk0 R2 0 
+May 07 23:58:46.852 HYPERVISOR: exec_cmd: vm get_status R2 
+May 07 23:58:46.853 HYPERVISOR: exec_cmd: vm slot_add_binding R2 1 0 NM-1FE-TX 
+May 07 23:58:46.854 HYPERVISOR: exec_cmd: vm get_status R2 
+May 07 23:58:46.855 HYPERVISOR: exec_cmd: vm slot_add_binding R2 0 16 WIC-2T 
+May 07 23:58:46.937 HYPERVISOR: exec_cmd: vm set_ios R2 C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.image 
+May 07 23:58:48.790 HYPERVISOR: exec_cmd: vm set_ios R2 C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.image 
+May 07 23:58:53.595 HYPERVISOR: exec_cmd: vm set_ios R2 C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.image 
+May 08 00:08:46.073 HYPERVISOR: exec_cmd: nio create_udp udp-f50a1d0a-b494-43a8-9d4c-86a223ebc552 10004 127.0.0.1 10005 
+May 08 00:08:46.342 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 0 udp-f50a1d0a-b494-43a8-9d4c-86a223ebc552 
+May 08 00:08:46.343 HYPERVISOR: exec_cmd: vm get_status R2 
+May 08 00:08:48.768 HYPERVISOR: exec_cmd: nio create_udp udp-e5fd760c-3c29-49f9-98c5-587320410110 10008 127.0.0.1 10009 
+May 08 00:08:48.771 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 1 udp-e5fd760c-3c29-49f9-98c5-587320410110 
+May 08 00:08:48.772 HYPERVISOR: exec_cmd: vm get_status R2 
+May 08 00:08:52.174 HYPERVISOR: exec_cmd: vm set_ghost_status R2 2 
+May 08 00:08:52.180 HYPERVISOR: exec_cmd: vm set_ghost_file R2 E:\A_sberbank\CbS_03\ex3\project-files\dynamips\c3745-adventerprisek9-mz.124-25.image-256.ghost 
+May 08 00:08:52.181 HYPERVISOR: exec_cmd: vm get_status R2 
+May 08 00:08:52.194 HYPERVISOR: exec_cmd: vm set_config R2 configs\i2_startup-config.cfg 
+May 08 00:08:52.195 HYPERVISOR: exec_cmd: vm start R2 
+May 08 00:17:52.971 HYPERVISOR: exec_cmd: vm extract_config R2 
+May 08 00:17:52.986 HYPERVISOR: exec_cmd: vm extract_config R2 
+May 08 00:25:53.183 HYPERVISOR: exec_cmd: vm extract_config R2 
+May 08 00:25:53.194 HYPERVISOR: exec_cmd: vm extract_config R2 
+May 08 01:07:08.488 HYPERVISOR: exec_cmd: vm get_status R2 
+May 08 01:07:08.488 HYPERVISOR: exec_cmd: vm stop R2 
+May 08 01:07:08.614 VM: VM R2 shutdown.
+May 08 01:07:08.616 HYPERVISOR: exec_cmd: vm extract_config R2 
