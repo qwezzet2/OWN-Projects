@@ -1,0 +1,6 @@
+Destination MAC-адрес для ICMP multicast-запроса: 01:00:5e:00:01:64
+
+
+
+
+Ethernet II, Src: c4:01:10:24:00:00 (c4:01:10:24:00:00), Dst: IPv4mcast_01:64 (01:00:5e:00:01:64)
