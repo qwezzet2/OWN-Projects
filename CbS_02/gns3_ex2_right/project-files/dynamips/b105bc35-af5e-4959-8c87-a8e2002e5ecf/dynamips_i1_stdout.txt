@@ -1,0 +1,6 @@
+cygwin warning:
+  MS-DOS style path detected: E:\\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x87\xD0\xB8\xD0\xB9 \xD1\x81\xD1\x82\xD0\xBE\xD0\xBB \xD1\x81 \xD0\xA1\\xD1\x81\xD0\xB1\xD0\xB5\xD1\x80\CbS_02\gns3_ex3\project-files\dynamips
+  Preferred POSIX equivalent is: /cygdrive/e/\xD0\xA0\xD0\xB0\xD0\xB1\xD0\xBE\xD1\x87\xD0\xB8\xD0\xB9 \xD1\x81\xD1\x82\xD0\xBE\xD0\xBB \xD1\x81 \xD0\xA1/\xD1\x81\xD0\xB1\xD0\xB5\xD1\x80/CbS_02/gns3_ex3/project-files/dynamips
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
