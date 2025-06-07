@@ -1,0 +1,29 @@
+May 09 23:20:36.107 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+May 09 23:20:36.108 HYPERVISOR: Started on IP = localhost, TCP port = 60287.
+May 09 23:20:36.217 HYPERVISOR: exec_cmd: hypervisor version 
+May 09 23:20:36.218 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex3\project-files\dynamips 
+May 09 23:20:36.277 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex3\project-files\dynamips
+May 09 23:20:36.277 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex3\project-files\dynamips\96cc81ea-fac2-4691-9cf2-44c76bdc7da3 
+May 09 23:20:36.277 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex3\project-files\dynamips\96cc81ea-fac2-4691-9cf2-44c76bdc7da3
+May 09 23:20:36.277 HYPERVISOR: exec_cmd: vm create R1 1 c3745 
+May 09 23:20:36.279 VM: VM R1 created.
+May 09 23:20:36.279 HYPERVISOR: exec_cmd: vm set_con_tcp_port R1 5000 
+May 09 23:20:36.280 HYPERVISOR: exec_cmd: c3745 get_mac_addr R1 
+May 09 23:20:36.280 HYPERVISOR: exec_cmd: vm set_disk0 R1 0 
+May 09 23:20:36.281 HYPERVISOR: exec_cmd: vm set_exec_area R1 64 
+May 09 23:20:36.282 HYPERVISOR: exec_cmd: vm set_ios R1 C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.image 
+May 09 23:20:36.283 HYPERVISOR: exec_cmd: c3745 set_mac_addr R1 c401.4188.0000 
+May 09 23:20:36.283 HYPERVISOR: exec_cmd: vm set_nvram R1 256 
+May 09 23:20:36.284 HYPERVISOR: exec_cmd: vm set_ram R1 256 
+May 09 23:20:36.284 HYPERVISOR: exec_cmd: vm get_status R1 
+May 09 23:20:36.284 HYPERVISOR: exec_cmd: vm slot_add_binding R1 1 0 NM-1FE-TX 
+May 09 23:20:36.285 HYPERVISOR: exec_cmd: vm get_status R1 
+May 09 23:20:36.285 HYPERVISOR: exec_cmd: vm slot_add_binding R1 0 16 WIC-2T 
+May 09 23:20:37.551 HYPERVISOR: exec_cmd: nio create_udp udp-bd27e211-6915-4dfc-a223-b314251785c5 10002 127.0.0.1 10003 
+May 09 23:20:37.825 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 0 0 udp-bd27e211-6915-4dfc-a223-b314251785c5 
+May 09 23:20:37.826 HYPERVISOR: exec_cmd: vm get_status R1 
+May 09 23:25:43.043 HYPERVISOR: exec_cmd: vm set_ghost_status R1 2 
+May 09 23:25:43.051 HYPERVISOR: exec_cmd: vm set_ghost_file R1 E:\A_sberbank\CbS_03\ex3\project-files\dynamips\c3745-adventerprisek9-mz.124-25.image-256.ghost 
+May 09 23:25:43.052 HYPERVISOR: exec_cmd: vm get_status R1 
+May 09 23:25:43.061 HYPERVISOR: exec_cmd: vm set_config R1 configs\i1_startup-config.cfg 
+May 09 23:25:43.061 HYPERVISOR: exec_cmd: vm start R1 

@@ -1,0 +1,63 @@
+May 06 23:18:09.059 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+May 06 23:18:09.060 HYPERVISOR: Started on IP = localhost, TCP port = 61434.
+May 06 23:18:09.185 HYPERVISOR: exec_cmd: hypervisor version 
+May 06 23:18:09.186 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex2\project-files\dynamips 
+May 06 23:18:09.186 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex2\project-files\dynamips
+May 06 23:18:09.186 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex2\project-files\dynamips\12ca00fa-e11e-4e2b-9b4b-03a21563200c 
+May 06 23:18:09.186 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex2\project-files\dynamips\12ca00fa-e11e-4e2b-9b4b-03a21563200c
+May 06 23:18:09.187 HYPERVISOR: exec_cmd: vm create ESW1 1 c3745 
+May 06 23:18:09.188 VM: VM ESW1 created.
+May 06 23:18:09.189 HYPERVISOR: exec_cmd: vm set_con_tcp_port ESW1 5015 
+May 06 23:18:09.189 HYPERVISOR: exec_cmd: c3745 get_mac_addr ESW1 
+May 06 23:18:09.189 HYPERVISOR: exec_cmd: vm set_disk0 ESW1 1 
+May 06 23:18:09.190 HYPERVISOR: exec_cmd: vm set_exec_area ESW1 64 
+May 06 23:18:09.191 HYPERVISOR: exec_cmd: vm set_ios ESW1 C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.bin 
+May 06 23:18:09.192 HYPERVISOR: exec_cmd: c3745 set_mac_addr ESW1 c401.0744.0000 
+May 06 23:18:09.192 HYPERVISOR: exec_cmd: vm set_nvram ESW1 256 
+May 06 23:18:09.193 HYPERVISOR: exec_cmd: vm set_ram ESW1 256 
+May 06 23:18:09.193 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:18:09.193 HYPERVISOR: exec_cmd: vm slot_add_binding ESW1 1 0 NM-16ESW 
+May 06 23:18:09.195 HYPERVISOR: exec_cmd: vm set_con_tcp_port ESW1 5015 
+May 06 23:18:09.962 HYPERVISOR: exec_cmd: nio create_udp udp-b35e2e07-7607-4c30-a52b-befab906c96f 10004 127.0.0.1 10005 
+May 06 23:18:10.239 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ESW1 1 1 udp-b35e2e07-7607-4c30-a52b-befab906c96f 
+May 06 23:18:10.240 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:18:10.360 HYPERVISOR: exec_cmd: nio create_udp udp-e689a2d2-fa2a-48fa-a6f0-63f354261e76 10012 127.0.0.1 10013 
+May 06 23:18:10.368 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ESW1 1 2 udp-e689a2d2-fa2a-48fa-a6f0-63f354261e76 
+May 06 23:18:10.368 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:18:10.954 HYPERVISOR: exec_cmd: nio create_udp udp-a57c9089-ff25-4794-baca-3af16aa0a226 10034 127.0.0.1 10035 
+May 06 23:18:10.989 HYPERVISOR: exec_cmd: vm slot_add_nio_binding ESW1 1 5 udp-a57c9089-ff25-4794-baca-3af16aa0a226 
+May 06 23:18:10.990 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:18:42.932 HYPERVISOR: exec_cmd: vm create Ghost 0 c3745 
+May 06 23:18:42.934 VM: VM Ghost created.
+May 06 23:18:42.935 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.bin 
+May 06 23:18:42.936 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+May 06 23:18:42.937 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost E:\A_sberbank\CbS_03\ex2\project-files\dynamips\c3745-adventerprisek9-mz.124-25.bin-256.ghost 
+May 06 23:18:42.937 HYPERVISOR: exec_cmd: vm set_ram Ghost 256 
+May 06 23:18:42.938 HYPERVISOR: exec_cmd: vm get_status Ghost 
+May 06 23:18:42.938 HYPERVISOR: exec_cmd: vm set_config Ghost configs\i0_startup-config.cfg 
+May 06 23:18:42.939 HYPERVISOR: exec_cmd: vm start Ghost 
+May 06 23:18:43.254 HYPERVISOR: exec_cmd: vm get_status Ghost 
+May 06 23:18:43.255 HYPERVISOR: exec_cmd: vm stop Ghost 
+May 06 23:18:43.388 VM: VM Ghost shutdown.
+May 06 23:18:43.389 HYPERVISOR: exec_cmd: vm extract_config Ghost 
+May 06 23:18:43.391 HYPERVISOR: exec_cmd: vm clean_delete Ghost 
+May 06 23:18:43.391 VM: VM Ghost destroyed.
+May 06 23:18:43.406 HYPERVISOR: exec_cmd: vm set_ghost_status ESW1 2 
+May 06 23:18:43.407 HYPERVISOR: exec_cmd: vm set_ghost_file ESW1 E:\A_sberbank\CbS_03\ex2\project-files\dynamips\c3745-adventerprisek9-mz.124-25.bin-256.ghost 
+May 06 23:18:43.407 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:18:43.413 HYPERVISOR: exec_cmd: vm set_config ESW1 configs\i1_startup-config.cfg 
+May 06 23:18:43.414 HYPERVISOR: exec_cmd: vm start ESW1 
+May 06 23:18:51.969 HYPERVISOR: exec_cmd: vm set_ghost_status ESW1 2 
+May 06 23:18:51.969 HYPERVISOR: exec_cmd: vm set_ghost_file ESW1 E:\A_sberbank\CbS_03\ex2\project-files\dynamips\c3745-adventerprisek9-mz.124-25.bin-256.ghost 
+May 06 23:18:51.970 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:19:09.450 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:19:09.450 HYPERVISOR: exec_cmd: vm stop ESW1 
+May 06 23:19:09.673 VM: VM ESW1 shutdown.
+May 06 23:19:09.674 HYPERVISOR: exec_cmd: vm extract_config ESW1 
+May 06 23:19:10.296 HYPERVISOR: exec_cmd: vm get_status ESW1 
+May 06 23:19:10.297 HYPERVISOR: exec_cmd: vm extract_config ESW1 
+May 06 23:19:10.298 HYPERVISOR: exec_cmd: vm delete ESW1 
+May 06 23:19:10.299 VM: VM ESW1 destroyed.
+May 06 23:19:10.301 HYPERVISOR: exec_cmd: hypervisor stop 
+May 06 23:19:10.374 HYPERVISOR: Stopped.
+May 06 23:19:10.374 GENERAL: reset done.

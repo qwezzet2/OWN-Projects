@@ -1,0 +1,47 @@
+May 09 23:20:36.367 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+May 09 23:20:36.369 HYPERVISOR: Started on IP = localhost, TCP port = 60296.
+May 09 23:20:36.871 HYPERVISOR: exec_cmd: hypervisor version 
+May 09 23:20:36.872 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex3\project-files\dynamips 
+May 09 23:20:36.872 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex3\project-files\dynamips
+May 09 23:20:36.872 HYPERVISOR: exec_cmd: hypervisor working_dir E:\A_sberbank\CbS_03\ex3\project-files\dynamips\9aac851d-ebc8-4563-97db-988c76cd6759 
+May 09 23:20:36.872 GENERAL: working_dir=E:\A_sberbank\CbS_03\ex3\project-files\dynamips\9aac851d-ebc8-4563-97db-988c76cd6759
+May 09 23:20:36.873 HYPERVISOR: exec_cmd: vm create R2 2 c3745 
+May 09 23:20:36.874 VM: VM R2 created.
+May 09 23:20:36.875 HYPERVISOR: exec_cmd: vm set_con_tcp_port R2 5001 
+May 09 23:20:36.875 HYPERVISOR: exec_cmd: c3745 get_mac_addr R2 
+May 09 23:20:36.876 HYPERVISOR: exec_cmd: vm set_disk0 R2 0 
+May 09 23:20:36.876 HYPERVISOR: exec_cmd: vm set_exec_area R2 64 
+May 09 23:20:36.878 HYPERVISOR: exec_cmd: vm set_ios R2 C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.image 
+May 09 23:20:36.878 HYPERVISOR: exec_cmd: c3745 set_mac_addr R2 c402.4124.0000 
+May 09 23:20:36.879 HYPERVISOR: exec_cmd: vm set_nvram R2 256 
+May 09 23:20:36.880 HYPERVISOR: exec_cmd: vm set_ram R2 256 
+May 09 23:20:36.881 HYPERVISOR: exec_cmd: vm get_status R2 
+May 09 23:20:36.881 HYPERVISOR: exec_cmd: vm slot_add_binding R2 1 0 NM-1FE-TX 
+May 09 23:20:36.882 HYPERVISOR: exec_cmd: vm get_status R2 
+May 09 23:20:36.883 HYPERVISOR: exec_cmd: vm slot_add_binding R2 0 16 WIC-2T 
+May 09 23:20:37.845 HYPERVISOR: exec_cmd: nio create_udp udp-3d4222f1-e681-4eef-bf18-75742dc48ac3 10004 127.0.0.1 10005 
+May 09 23:20:38.118 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 0 udp-3d4222f1-e681-4eef-bf18-75742dc48ac3 
+May 09 23:20:38.118 HYPERVISOR: exec_cmd: vm get_status R2 
+May 09 23:20:38.191 HYPERVISOR: exec_cmd: nio create_udp udp-e82cc377-e26d-42cc-a24c-4cf13fd84fa5 10008 127.0.0.1 10009 
+May 09 23:20:38.194 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R2 0 1 udp-e82cc377-e26d-42cc-a24c-4cf13fd84fa5 
+May 09 23:20:38.195 HYPERVISOR: exec_cmd: vm get_status R2 
+May 09 23:25:42.317 HYPERVISOR: exec_cmd: vm create Ghost 0 c3745 
+May 09 23:25:42.318 VM: VM Ghost created.
+May 09 23:25:42.319 HYPERVISOR: exec_cmd: vm set_ios Ghost C:/Users/Natka/GNS3/images/IOS/c3745-adventerprisek9-mz.124-25.image 
+May 09 23:25:42.320 HYPERVISOR: exec_cmd: vm set_ghost_status Ghost 1 
+May 09 23:25:42.321 HYPERVISOR: exec_cmd: vm set_ghost_file Ghost E:\A_sberbank\CbS_03\ex3\project-files\dynamips\c3745-adventerprisek9-mz.124-25.image-256.ghost 
+May 09 23:25:42.322 HYPERVISOR: exec_cmd: vm set_ram Ghost 256 
+May 09 23:25:42.322 HYPERVISOR: exec_cmd: vm get_status Ghost 
+May 09 23:25:42.323 HYPERVISOR: exec_cmd: vm set_config Ghost configs\i0_startup-config.cfg 
+May 09 23:25:42.323 HYPERVISOR: exec_cmd: vm start Ghost 
+May 09 23:25:42.745 HYPERVISOR: exec_cmd: vm get_status Ghost 
+May 09 23:25:42.747 HYPERVISOR: exec_cmd: vm stop Ghost 
+May 09 23:25:43.010 VM: VM Ghost shutdown.
+May 09 23:25:43.011 HYPERVISOR: exec_cmd: vm extract_config Ghost 
+May 09 23:25:43.013 HYPERVISOR: exec_cmd: vm clean_delete Ghost 
+May 09 23:25:43.013 VM: VM Ghost destroyed.
+May 09 23:25:43.031 HYPERVISOR: exec_cmd: vm set_ghost_status R2 2 
+May 09 23:25:43.032 HYPERVISOR: exec_cmd: vm set_ghost_file R2 E:\A_sberbank\CbS_03\ex3\project-files\dynamips\c3745-adventerprisek9-mz.124-25.image-256.ghost 
+May 09 23:25:43.032 HYPERVISOR: exec_cmd: vm get_status R2 
+May 09 23:25:43.041 HYPERVISOR: exec_cmd: vm set_config R2 configs\i2_startup-config.cfg 
+May 09 23:25:43.042 HYPERVISOR: exec_cmd: vm start R2 
