@@ -1,0 +1,2348 @@
+Установленные пакеты
+accountsservice
+acl
+adduser
+adwaita-icon-theme
+alsa-base
+alsa-topology-conf
+alsa-ucm-conf
+alsa-utils
+amd64-microcode
+anacron
+apache2
+apache2-bin
+apache2-data
+apache2-utils
+apg
+apparmor
+apport
+apport-core-dump-handler
+apport-gtk
+apport-symptoms
+appstream
+apt
+apt-config-icons
+apt-config-icons-hidpi
+apt-utils
+aptdaemon
+aptdaemon-data
+aspell
+aspell-en
+at-spi2-common
+at-spi2-core
+avahi-daemon
+baobab
+base-files
+base-passwd
+bash
+bash-completion
+bc
+bind9-dnsutils
+bind9-host
+bind9-libs:amd64
+binutils
+binutils-common:amd64
+binutils-x86-64-linux-gnu
+blt
+bluez
+bluez-cups
+bluez-obexd
+bolt
+bpfcc-tools
+bpftrace
+brltty
+bsdextrautils
+bsdutils
+bubblewrap
+build-essential
+busybox-initramfs
+busybox-static
+bzip2
+ca-certificates
+check:amd64
+chromium-browser
+chrony
+clang
+clang-18
+clang-format:amd64
+clang-format-18
+cloud-guest-utils
+cloud-init
+colord
+colord-data
+command-not-found
+compiz
+compiz-core
+compiz-gnome
+compiz-plugins-default:amd64
+console-setup
+console-setup-linux
+coreutils
+cpio
+cpp
+cpp-13
+cpp-13-x86-64-linux-gnu
+cpp-x86-64-linux-gnu
+cracklib-runtime
+cron
+cron-daemon-common
+cups
+cups-browsed
+cups-bsd
+cups-client
+cups-common
+cups-core-drivers
+cups-daemon
+cups-filters
+cups-filters-core-drivers
+cups-ipp-utils
+cups-pk-helper
+cups-ppdc
+cups-server-common
+curl
+dash
+dbus
+dbus-bin
+dbus-daemon
+dbus-session-bus-common
+dbus-system-bus-common
+dbus-user-session
+dc
+dconf-cli
+dconf-gsettings-backend:amd64
+dconf-service
+debconf
+debconf-i18n
+debianutils
+debugedit
+deja-dup
+desktop-file-utils
+dhcpcd-base
+dictionaries-common
+diffutils
+dirmngr
+distro-info
+distro-info-data
+dmidecode
+dmsetup
+dmz-cursor-theme
+dns-root-data
+dnsmasq-base
+docbook-xml
+dosfstools
+dpkg
+dpkg-dev
+dracut-install
+duplicity
+e2fsprogs
+e2fsprogs-l10n
+eatmydata
+ed
+efibootmgr
+eject
+emacsen-common
+enchant-2
+eog
+espeak-ng-data:amd64
+ethtool
+evince
+evince-common
+evolution-data-server
+evolution-data-server-common
+fakeroot
+fdisk
+file
+file-roller
+findutils
+firefox
+firmware-sof-signed
+fontconfig
+fontconfig-config
+fonts-dejavu-core
+fonts-dejavu-mono
+fonts-droid-fallback
+fonts-liberation
+fonts-liberation-sans-narrow
+fonts-lyx
+fonts-noto-cjk
+fonts-noto-color-emoji
+fonts-noto-core
+fonts-noto-mono
+fonts-opensymbol
+fonts-ubuntu
+fonts-urw-base35
+foomatic-db-compressed-ppds
+fprintd
+friendly-recovery
+ftp
+fuse3
+fwupd
+fwupd-signed
+g++
+g++-13
+g++-13-x86-64-linux-gnu
+g++-x86-64-linux-gnu
+gamemode
+gamemode-daemon
+gcc
+gcc-13
+gcc-13-base:amd64
+gcc-13-x86-64-linux-gnu
+gcc-14-base:amd64
+gcc-x86-64-linux-gnu
+gcr
+gcr4
+gdb
+gdisk
+gdm3
+geoclue-2.0
+geocode-glib-common
+gettext
+gettext-base
+ghostscript
+gir1.2-accountsservice-1.0:amd64
+gir1.2-adw-1:amd64
+gir1.2-atk-1.0:amd64
+gir1.2-atspi-2.0:amd64
+gir1.2-ayatanaappindicator3-0.1
+gir1.2-dbusmenu-glib-0.4:amd64
+gir1.2-dee-1.0:amd64
+gir1.2-freedesktop:amd64
+gir1.2-gck-2:amd64
+gir1.2-gcr-4:amd64
+gir1.2-gdesktopenums-3.0:amd64
+gir1.2-gdkpixbuf-2.0:amd64
+gir1.2-gdm-1.0
+gir1.2-geoclue-2.0:amd64
+gir1.2-girepository-2.0:amd64
+gir1.2-glib-2.0:amd64
+gir1.2-gmenu-3.0:amd64
+gir1.2-gnomeautoar-0.1:amd64
+gir1.2-gnomebg-4.0:amd64
+gir1.2-gnomebluetooth-3.0:amd64
+gir1.2-gnomedesktop-3.0:amd64
+gir1.2-gnomedesktop-4.0:amd64
+gir1.2-graphene-1.0:amd64
+gir1.2-gst-plugins-base-1.0:amd64
+gir1.2-gstreamer-1.0:amd64
+gir1.2-gtk-3.0:amd64
+gir1.2-gtk-4.0:amd64
+gir1.2-gudev-1.0:amd64
+gir1.2-gweather-4.0:amd64
+gir1.2-handy-1:amd64
+gir1.2-harfbuzz-0.0:amd64
+gir1.2-ibus-1.0:amd64
+gir1.2-javascriptcoregtk-4.1:amd64
+gir1.2-javascriptcoregtk-6.0:amd64
+gir1.2-mutter-14:amd64
+gir1.2-nm-1.0:amd64
+gir1.2-nma4-1.0:amd64
+gir1.2-notify-0.7:amd64
+gir1.2-packagekitglib-1.0
+gir1.2-pango-1.0:amd64
+gir1.2-peas-1.0:amd64
+gir1.2-polkit-1.0
+gir1.2-rb-3.0:amd64
+gir1.2-rsvg-2.0:amd64
+gir1.2-secret-1:amd64
+gir1.2-snapd-2:amd64
+gir1.2-soup-3.0:amd64
+gir1.2-totem-1.0:amd64
+gir1.2-totemplparser-1.0:amd64
+gir1.2-udisks-2.0:amd64
+gir1.2-unity-7.0:amd64
+gir1.2-upowerglib-1.0:amd64
+gir1.2-vte-2.91:amd64
+gir1.2-webkit-6.0:amd64
+gir1.2-webkit2-4.1:amd64
+gir1.2-wnck-3.0:amd64
+git
+git-man
+gjs
+gkbd-capplet
+glib-networking:amd64
+glib-networking-common
+glib-networking-services
+gnome-accessibility-themes
+gnome-bluetooth-3-common
+gnome-bluetooth-sendto
+gnome-calculator
+gnome-calendar
+gnome-characters
+gnome-clocks
+gnome-control-center
+gnome-control-center-data
+gnome-control-center-faces
+gnome-desktop3-data
+gnome-disk-utility
+gnome-font-viewer
+gnome-initial-setup
+gnome-keyring
+gnome-keyring-pkcs11:amd64
+gnome-logs
+gnome-menus
+gnome-online-accounts
+gnome-power-manager
+gnome-remote-desktop
+gnome-session-bin
+gnome-session-canberra
+gnome-session-common
+gnome-settings-daemon
+gnome-settings-daemon-common
+gnome-shell
+gnome-shell-common
+gnome-shell-extension-appindicator
+gnome-shell-extension-desktop-icons-ng
+gnome-shell-extension-ubuntu-dock
+gnome-shell-extension-ubuntu-tiling-assistant
+gnome-snapshot
+gnome-startup-applications
+gnome-system-monitor
+gnome-terminal
+gnome-terminal-data
+gnome-text-editor
+gnome-themes-extra:amd64
+gnome-themes-extra-data
+gnome-user-docs
+gnome-user-docs-ru
+gnupg
+gnupg-l10n
+gnupg-utils
+gpg
+gpg-agent
+gpg-wks-client
+gpgconf
+gpgsm
+gpgv
+grep
+grilo-plugins-0.3-base:amd64
+groff-base
+grub-common
+grub-efi-amd64
+grub-efi-amd64-bin
+grub-efi-amd64-signed
+grub2-common
+gsasl-common
+gsettings-desktop-schemas
+gsettings-ubuntu-schemas
+gstreamer1.0-alsa:amd64
+gstreamer1.0-gl:amd64
+gstreamer1.0-gtk3:amd64
+gstreamer1.0-libav:amd64
+gstreamer1.0-libcamera:amd64
+gstreamer1.0-packagekit
+gstreamer1.0-pipewire:amd64
+gstreamer1.0-plugins-base:amd64
+gstreamer1.0-plugins-base-apps
+gstreamer1.0-plugins-good:amd64
+gstreamer1.0-plugins-ugly:amd64
+gstreamer1.0-tools
+gstreamer1.0-vaapi:amd64
+gstreamer1.0-x:amd64
+gtk-update-icon-cache
+gtk2-engines-murrine:amd64
+gtk2-engines-pixbuf:amd64
+guile-3.0-libs:amd64
+gvfs:amd64
+gvfs-backends
+gvfs-common
+gvfs-daemons
+gvfs-fuse
+gvfs-libs:amd64
+gzip
+hdparm
+heif-gdk-pixbuf:amd64
+heif-thumbnailer
+hicolor-icon-theme
+hostname
+hplip
+hplip-data
+htop
+humanity-icon-theme
+hunspell-en-us
+hunspell-fr-classical
+hunspell-ru
+hwdata
+hyphen-ru
+i965-va-driver:amd64
+ibus
+ibus-data
+ibus-gtk:amd64
+ibus-gtk3:amd64
+ibus-gtk4:amd64
+ibus-table
+ibus-table-cangjie-big
+ibus-table-cangjie3
+ibus-table-cangjie5
+ibverbs-providers:amd64
+icu-devtools
+ieee-data
+iio-sensor-proxy
+im-config
+inetutils-telnet
+info
+init
+init-system-helpers
+initramfs-tools
+initramfs-tools-bin
+initramfs-tools-core
+inputattach
+install-info
+intel-media-va-driver:amd64
+intel-microcode
+ipp-usb
+iproute2
+iptables
+iputils-ping
+iputils-tracepath
+ipython3
+iso-codes
+isympy-common
+isympy3
+iucode-tool
+javascript-common
+jazz
+joe
+jq
+kbd
+kerneloops
+keyboard-configuration
+keyboxd
+klibc-utils
+kmod
+krb5-locales
+language-pack-gnome-ru
+language-pack-gnome-ru-base
+language-pack-ru
+language-pack-ru-base
+language-selector-common
+language-selector-gnome
+laptop-detect
+lcov
+ldap-utils
+less
+lib32gcc-s1
+lib32stdc++6
+liba52-0.7.4:amd64
+libaa1:amd64
+libaacs0:amd64
+libabsl20220623t64:amd64
+libabw-0.1-1:amd64
+libaccountsservice0:amd64
+libacl1:amd64
+libadwaita-1-0:amd64
+libalgorithm-c3-perl
+libalgorithm-diff-perl
+libalgorithm-diff-xs-perl:amd64
+libalgorithm-merge-perl
+libao-common
+libao4:amd64
+libaom3:amd64
+libapparmor1:amd64
+libappstream5:amd64
+libapr1t64:amd64
+libaprutil1-dbd-sqlite3:amd64
+libaprutil1-ldap:amd64
+libaprutil1t64:amd64
+libapt-pkg6.0t64:amd64
+libarchive13t64:amd64
+libargon2-1:amd64
+libasan8:amd64
+libasound2-data
+libasound2t64:amd64
+libaspell15:amd64
+libass9:amd64
+libassuan0:amd64
+libasyncns0:amd64
+libatasmart4:amd64
+libatk-adaptor:amd64
+libatk-bridge2.0-0t64:amd64
+libatk1.0-0t64:amd64
+libatm1t64:amd64
+libatomic1:amd64
+libatopology2t64:amd64
+libatspi2.0-0t64:amd64
+libattr1:amd64
+libaudit-common
+libaudit1:amd64
+libauthen-sasl-perl
+libavahi-client3:amd64
+libavahi-common-data:amd64
+libavahi-common3:amd64
+libavahi-core7:amd64
+libavahi-glib1:amd64
+libavahi-ui-gtk3-0:amd64
+libavc1394-0:amd64
+libavcodec60:amd64
+libavfilter9:amd64
+libavformat60:amd64
+libavutil58:amd64
+libayatana-appindicator3-1
+libayatana-ido3-0.4-0:amd64
+libayatana-indicator3-7:amd64
+libb-hooks-endofscope-perl
+libb-hooks-op-check-perl:amd64
+libb2-1:amd64
+libbabeltrace1:amd64
+libbasicobjects0t64:amd64
+libbcg729-0:amd64
+libbdplus0:amd64
+libbinutils:amd64
+libblas3:amd64
+libblkid1:amd64
+libblockdev-crypto3:amd64
+libblockdev-fs3:amd64
+libblockdev-loop3:amd64
+libblockdev-mdraid3:amd64
+libblockdev-nvme3:amd64
+libblockdev-part3:amd64
+libblockdev-swap3:amd64
+libblockdev-utils3:amd64
+libblockdev3:amd64
+libbluetooth3:amd64
+libbluray2:amd64
+libboost-iostreams1.83.0:amd64
+libboost-locale1.83.0:amd64
+libboost-thread1.83.0:amd64
+libbpf1:amd64
+libbpfcc:amd64
+libbrlapi0.8:amd64
+libbrotli1:amd64
+libbs2b0:amd64
+libbsd0:amd64
+libburn4t64:amd64
+libbytesize-common
+libbytesize1:amd64
+libbz2-1.0:amd64
+libc-bin
+libc-dev-bin
+libc-devtools
+libc6:amd64
+libc6-dbg:amd64
+libc6-dev:amd64
+libc6-i386
+libcaca0:amd64
+libcairo-gobject-perl
+libcairo-gobject2:amd64
+libcairo-perl
+libcairo-script-interpreter2:amd64
+libcairo2:amd64
+libcairomm-1.16-1:amd64
+libcamel-1.2-64t64:amd64
+libcamera0.2:amd64
+libcanberra-gtk3-0t64:amd64
+libcanberra-gtk3-module:amd64
+libcanberra-pulse:amd64
+libcanberra0t64:amd64
+libcap-ng0:amd64
+libcap2:amd64
+libcap2-bin
+libcapture-tiny-perl
+libcares2:amd64
+libcbor0.10:amd64
+libcc1-0:amd64
+libcdio-cdda2t64:amd64
+libcdio-paranoia2t64:amd64
+libcdio19t64:amd64
+libcdparanoia0:amd64
+libcdr-0.1-1:amd64
+libchewing3:amd64
+libchewing3-data
+libchromaprint1:amd64
+libcjson1:amd64
+libclang-common-18-dev:amd64
+libclang-cpp18
+libclang-rt-18-dev:amd64
+libclang1-18
+libclass-c3-perl
+libclass-c3-xs-perl
+libclass-data-inheritable-perl
+libclass-inspector-perl
+libclass-method-modifiers-perl
+libclass-singleton-perl
+libclass-xsaccessor-perl
+libclone-perl:amd64
+libclucene-contribs1t64:amd64
+libclucene-core1t64:amd64
+libcodec2-1.2:amd64
+libcolamd3:amd64
+libcollection4t64:amd64
+libcolord-gtk4-1t64:amd64
+libcolord2:amd64
+libcolorhug2:amd64
+libcom-err2:amd64
+libcommon-sense-perl:amd64
+libcompizconfig0:amd64
+libcrack2:amd64
+libcrypt-dev:amd64
+libcrypt1:amd64
+libcryptsetup12:amd64
+libctf-nobfd0:amd64
+libctf0:amd64
+libcue2:amd64
+libcups2t64:amd64
+libcupsfilters2-common
+libcupsfilters2t64:amd64
+libcupsimage2t64:amd64
+libcurl3t64-gnutls:amd64
+libcurl4t64:amd64
+libdaemon0:amd64
+libdata-dump-perl
+libdata-optlist-perl
+libdate-manip-perl
+libdatetime-locale-perl
+libdatetime-perl
+libdatetime-timezone-perl
+libdatrie1:amd64
+libdav1d7:amd64
+libdb5.3t64:amd64
+libdbus-1-3:amd64
+libdbus-glib-1-2:amd64
+libdbusmenu-glib4:amd64
+libdbusmenu-gtk3-4:amd64
+libdconf1:amd64
+libde265-0:amd64
+libdebconfclient0:amd64
+libdebuginfod-common
+libdebuginfod1t64:amd64
+libdecor-0-0:amd64
+libdecor-0-plugin-1-gtk:amd64
+libdecoration0t64:amd64
+libdee-1.0-4:amd64
+libdeflate0:amd64
+libdevel-callchecker-perl:amd64
+libdevel-caller-perl:amd64
+libdevel-lexalias-perl
+libdevel-stacktrace-perl
+libdevmapper1.02.1:amd64
+libdhash1t64:amd64
+libdjvulibre-text
+libdjvulibre21:amd64
+libdmapsharing-4.0-3t64:amd64
+libdotconf0:amd64
+libdouble-conversion3:amd64
+libdpkg-perl
+libdrm-amdgpu1:amd64
+libdrm-common
+libdrm-intel1:amd64
+libdrm-nouveau2:amd64
+libdrm-radeon1:amd64
+libdrm2:amd64
+libduktape207:amd64
+libdv4t64:amd64
+libdvdread8t64:amd64
+libdw1t64:amd64
+libdynaloader-functions-perl
+libe-book-0.1-1:amd64
+libeatmydata1:amd64
+libebackend-1.2-11t64:amd64
+libebook-1.2-21t64:amd64
+libebook-contacts-1.2-4t64:amd64
+libecal-2.0-3:amd64
+libedata-book-1.2-27t64:amd64
+libedata-cal-2.0-2t64:amd64
+libedataserver-1.2-27t64:amd64
+libedataserverui-1.2-4t64:amd64
+libedataserverui4-1.0-0t64:amd64
+libedit2:amd64
+libeditorconfig0:amd64
+libefiboot1t64:amd64
+libefivar1t64:amd64
+libegl-mesa0:amd64
+libegl1:amd64
+libei1:amd64
+libeis1:amd64
+libelf1t64:amd64
+libenchant-2-2:amd64
+libencode-locale-perl
+libeot0:amd64
+libepoxy0:amd64
+libepubgen-0.1-1:amd64
+liberror-perl
+libespeak-ng1:amd64
+libestr0:amd64
+libetonyek-0.1-1:amd64
+libeval-closure-perl
+libevdev2:amd64
+libevdocument3-4t64:amd64
+libevent-2.1-7t64:amd64
+libevview3-3t64:amd64
+libexception-class-perl
+libexempi8:amd64
+libexif12:amd64
+libexiv2-27:amd64
+libexpat1:amd64
+libexpat1-dev:amd64
+libext2fs2t64:amd64
+libexttextcat-2.0-0:amd64
+libexttextcat-data
+libextutils-depends-perl
+libfakeroot:amd64
+libfastjson4:amd64
+libfdisk1:amd64
+libffi-dev:amd64
+libffi8:amd64
+libfftw3-double3:amd64
+libfftw3-single3:amd64
+libfido2-1:amd64
+libfile-basedir-perl
+libfile-desktopentry-perl
+libfile-fcntllock-perl
+libfile-listing-perl
+libfile-mimeinfo-perl
+libfile-sharedir-perl
+libflac12t64:amd64
+libflashrom1:amd64
+libflite1:amd64
+libfont-afm-perl
+libfontconfig1:amd64
+libfontenc1:amd64
+libfprint-2-2
+libfprint-2-tod1:amd64
+libfreeaptx0:amd64
+libfreehand-0.1-1
+libfreerdp-client3-3:amd64
+libfreerdp-server3-3:amd64
+libfreerdp3-3:amd64
+libfreetype6:amd64
+libfribidi0:amd64
+libfsverity0:amd64
+libftdi1-2:amd64
+libfuse3-3:amd64
+libfwupd2:amd64
+libgail-common:amd64
+libgail18t64:amd64
+libgamemode0:amd64
+libgamemodeauto0:amd64
+libgbm1:amd64
+libgc1:amd64
+libgcc-13-dev:amd64
+libgcc-s1:amd64
+libgck-1-0:amd64
+libgck-2-2:amd64
+libgcr-4-4:amd64
+libgcr-base-3-1:amd64
+libgcr-ui-3-1:amd64
+libgcrypt20:amd64
+libgd-perl
+libgd3:amd64
+libgdata-common
+libgdata22:amd64
+libgdbm-compat4t64:amd64
+libgdbm6t64:amd64
+libgdk-pixbuf-2.0-0:amd64
+libgdk-pixbuf2.0-bin
+libgdk-pixbuf2.0-common
+libgdm1
+libgee-0.8-2:amd64
+libgeoclue-2-0:amd64
+libgeocode-glib-2-0:amd64
+libgexiv2-2:amd64
+libgfortran5:amd64
+libgif7:amd64
+libgirepository-1.0-1:amd64
+libgjs0g:amd64
+libgl1:amd64
+libgl1-amber-dri:amd64
+libgl1-mesa-dri:amd64
+libglapi-mesa:amd64
+libgles2:amd64
+libglib-object-introspection-perl
+libglib-perl:amd64
+libglib2.0-0t64:amd64
+libglib2.0-bin
+libglib2.0-data
+libglibmm-2.4-1t64:amd64
+libglibmm-2.68-1t64:amd64
+libglu1-mesa:amd64
+libglvnd0:amd64
+libglx-mesa0:amd64
+libglx0:amd64
+libgme0:amd64
+libgmp10:amd64
+libgnome-autoar-0-0:amd64
+libgnome-bg-4-2t64:amd64
+libgnome-bluetooth-3.0-13:amd64
+libgnome-bluetooth-ui-3.0-13:amd64
+libgnome-desktop-3-20t64:amd64
+libgnome-desktop-4-2t64:amd64
+libgnome-menu-3-0:amd64
+libgnome-rr-4-2t64:amd64
+libgnomekbd-common
+libgnomekbd8:amd64
+libgnutls30t64:amd64
+libgoa-1.0-0b:amd64
+libgoa-1.0-common
+libgoa-backend-1.0-2:amd64
+libgom-1.0-0t64:amd64
+libgomp1:amd64
+libgpg-error-l10n
+libgpg-error0:amd64
+libgpgme11t64:amd64
+libgpgmepp6t64:amd64
+libgphoto2-6t64:amd64
+libgphoto2-l10n
+libgphoto2-port12t64:amd64
+libgpm2:amd64
+libgpod-common
+libgpod4t64:amd64
+libgprofng0:amd64
+libgraphene-1.0-0:amd64
+libgraphite2-3:amd64
+libgrilo-0.3-0:amd64
+libgs-common
+libgs10:amd64
+libgs10-common
+libgsasl18:amd64
+libgsf-1-114:amd64
+libgsf-1-common
+libgsm1:amd64
+libgsound0t64:amd64
+libgspell-1-2:amd64
+libgspell-1-common
+libgssapi-krb5-2:amd64
+libgssdp-1.6-0:amd64
+libgssglue1:amd64
+libgstreamer-gl1.0-0:amd64
+libgstreamer-plugins-bad1.0-0:amd64
+libgstreamer-plugins-base1.0-0:amd64
+libgstreamer-plugins-good1.0-0:amd64
+libgstreamer1.0-0:amd64
+libgtk-3-0t64:amd64
+libgtk-3-bin
+libgtk-3-common
+libgtk-4-1:amd64
+libgtk-4-bin
+libgtk-4-common
+libgtk-4-media-gstreamer
+libgtk2.0-0t64:amd64
+libgtk2.0-bin
+libgtk2.0-common
+libgtk3-perl
+libgtkmm-4.0-0:amd64
+libgtksourceview-5-0:amd64
+libgtksourceview-5-common
+libgtop-2.0-11:amd64
+libgtop2-common
+libgudev-1.0-0:amd64
+libgupnp-1.6-0:amd64
+libgupnp-av-1.0-3:amd64
+libgupnp-dlna-2.0-4:amd64
+libgupnp-igd-1.6-0:amd64
+libgusb2:amd64
+libgweather-4-0t64:amd64
+libgweather-4-common
+libgxps2t64:amd64
+libhandy-1-0:amd64
+libharfbuzz-gobject0:amd64
+libharfbuzz-icu0:amd64
+libharfbuzz0b:amd64
+libheif-plugin-aomdec:amd64
+libheif-plugin-aomenc:amd64
+libheif-plugin-libde265:amd64
+libheif1:amd64
+libhogweed6t64:amd64
+libhpmud0:amd64
+libhtml-form-perl
+libhtml-format-perl
+libhtml-parser-perl:amd64
+libhtml-tagset-perl
+libhtml-tree-perl
+libhttp-cookies-perl
+libhttp-daemon-perl
+libhttp-date-perl
+libhttp-message-perl
+libhttp-negotiate-perl
+libhunspell-1.7-0:amd64
+libhwasan0:amd64
+libhwy1t64:amd64
+libhyphen0:amd64
+libibus-1.0-5:amd64
+libibverbs1:amd64
+libical3t64:amd64
+libice6:amd64
+libicu-dev:amd64
+libicu74:amd64
+libidn12:amd64
+libidn2-0:amd64
+libiec61883-0:amd64
+libieee1284-3t64:amd64
+libigdgmm12:amd64
+libijs-0.35:amd64
+libimagequant0:amd64
+libimobiledevice6:amd64
+libini-config5t64:amd64
+libinih1:amd64
+libinput-bin
+libinput10:amd64
+libio-html-perl
+libio-socket-ssl-perl
+libio-stringy-perl
+libip4tc2:amd64
+libip6tc2:amd64
+libipa-hbac0t64
+libipc-system-simple-perl
+libipt2
+libisl23:amd64
+libisoburn1t64:amd64
+libisofs6t64:amd64
+libitm1:amd64
+libiw30t64:amd64
+libjansson4:amd64
+libjavascriptcoregtk-4.1-0:amd64
+libjavascriptcoregtk-6.0-1:amd64
+libjbig0:amd64
+libjbig2dec0:amd64
+libjcat1:amd64
+libjpeg-turbo8:amd64
+libjpeg8:amd64
+libjq1:amd64
+libjs-jquery
+libjs-jquery-ui
+libjs-sphinxdoc
+libjs-underscore
+libjson-c5:amd64
+libjson-glib-1.0-0:amd64
+libjson-glib-1.0-common
+libjson-perl
+libjson-xs-perl
+libjxl0.7:amd64
+libk5crypto3:amd64
+libkeyutils1:amd64
+libklibc:amd64
+libkmod2:amd64
+libkpathsea6:amd64
+libkrb5-3:amd64
+libkrb5support0:amd64
+libksba8:amd64
+liblangtag-common
+liblangtag1:amd64
+liblapack3:amd64
+liblbfgsb0:amd64
+liblc3-1:amd64
+liblcms2-2:amd64
+liblcms2-utils
+libldacbt-abr2:amd64
+libldacbt-enc2:amd64
+libldap-common
+libldap2:amd64
+libldb2:amd64
+liblerc4:amd64
+liblilv-0-0:amd64
+liblirc-client0t64:amd64
+libllvm18:amd64
+libllvm19:amd64
+liblmdb0:amd64
+liblocale-gettext-perl
+liblouis-data
+liblouis20:amd64
+liblouisutdml-bin
+liblouisutdml-data
+liblouisutdml9t64:amd64
+liblsan0:amd64
+libltdl7:amd64
+liblttng-ust-common1t64:amd64
+liblttng-ust-ctl5t64:amd64
+liblttng-ust1t64:amd64
+liblua5.2-0:amd64
+liblua5.3-0:amd64
+liblua5.4-0:amd64
+liblwp-mediatypes-perl
+liblwp-protocol-https-perl
+liblz4-1:amd64
+liblzma5:amd64
+liblzo2-2:amd64
+libm17n-0:amd64
+libmagic-mgc
+libmagic1t64:amd64
+libmailtools-perl
+libmailutils9t64:amd64
+libmalcontent-0-0:amd64
+libmanette-0.2-0:amd64
+libmarco-private2:amd64
+libmarisa0:amd64
+libmaxminddb0:amd64
+libmbedcrypto7t64:amd64
+libmbim-glib4:amd64
+libmbim-proxy
+libmbim-utils
+libmd0:amd64
+libmd4c0:amd64
+libmediaart-2.0-0:amd64
+libmetacity3:amd64
+libmhash2:amd64
+libminiupnpc17:amd64
+libminizip1t64:amd64
+libmm-glib0:amd64
+libmnl0:amd64
+libmodule-implementation-perl
+libmodule-runtime-perl
+libmount1:amd64
+libmozjs-115-0t64:amd64
+libmp3lame0:amd64
+libmpc3:amd64
+libmpeg2-4:amd64
+libmpfr6:amd64
+libmpg123-0t64:amd64
+libmro-compat-perl
+libmsgraph-0-1:amd64
+libmspub-0.1-1:amd64
+libmtdev1t64:amd64
+libmtp-common
+libmtp-runtime
+libmtp9t64:amd64
+libmutter-14-0:amd64
+libmwaw-0.3-3:amd64
+libmysofa1:amd64
+libmysqlclient21:amd64
+libmythes-1.2-0:amd64
+libnamespace-autoclean-perl
+libnamespace-clean-perl
+libnatpmp1t64:amd64
+libnautilus-extension4:amd64
+libncurses-dev:amd64
+libncurses6:amd64
+libncursesw6:amd64
+libndp0:amd64
+libnet-dbus-perl
+libnet-http-perl
+libnet-smtp-ssl-perl
+libnet-ssleay-perl:amd64
+libnetfilter-conntrack3:amd64
+libnetplan1:amd64
+libnettle8t64:amd64
+libnewt0.52:amd64
+libnfnetlink0:amd64
+libnfs14:amd64
+libnfsidmap1:amd64
+libnftables1:amd64
+libnftnl11:amd64
+libnghttp2-14:amd64
+libnghttp3-3:amd64
+libnice10:amd64
+libnl-3-200:amd64
+libnl-genl-3-200:amd64
+libnl-route-3-200:amd64
+libnm0:amd64
+libnma-common
+libnma-gtk4-0:amd64
+libnma0:amd64
+libnorm1t64:amd64
+libnotify-bin
+libnotify4:amd64
+libnpth0t64:amd64
+libnsl2:amd64
+libnspr4:amd64
+libnss-mdns:amd64
+libnss-sss:amd64
+libnss-systemd:amd64
+libnss3:amd64
+libntfs-3g89t64:amd64
+libntlm0:amd64
+libnuma1:amd64
+libnvme1t64
+libobjc-13-dev:amd64
+libobjc4:amd64
+libodfgen-0.1-1:amd64
+libogg0:amd64
+libonig5:amd64
+libopencc-data
+libopencc1.1
+libopencore-amrnb0:amd64
+libopengl0:amd64
+libopenjp2-7:amd64
+libopenmpt0t64:amd64
+libopus0:amd64
+liborc-0.4-0t64:amd64
+liborcus-0.18-0:amd64
+liborcus-parser-0.18-0:amd64
+libotf1:amd64
+libp11-kit0:amd64
+libpackage-stash-perl
+libpackage-stash-xs-perl:amd64
+libpackagekit-glib2-18:amd64
+libpadwalker-perl
+libpagemaker-0.0-0:amd64
+libpam-cap:amd64
+libpam-fprintd:amd64
+libpam-gnome-keyring:amd64
+libpam-modules:amd64
+libpam-modules-bin
+libpam-pwquality:amd64
+libpam-runtime
+libpam-sss:amd64
+libpam-systemd:amd64
+libpam0g:amd64
+libpango-1.0-0:amd64
+libpangocairo-1.0-0:amd64
+libpangoft2-1.0-0:amd64
+libpangomm-2.48-1t64:amd64
+libpangoxft-1.0-0:amd64
+libpaper-utils
+libpaper1:amd64
+libparams-classify-perl:amd64
+libparams-util-perl
+libparams-validationcompiler-perl
+libparted2t64:amd64
+libpath-utils1t64:amd64
+libpcap0.8t64:amd64
+libpcaudio0:amd64
+libpci3:amd64
+libpciaccess0:amd64
+libpcre2-16-0:amd64
+libpcre2-32-0:amd64
+libpcre2-8-0:amd64
+libpcsclite1:amd64
+libpeas-1.0-0:amd64
+libpeas-common
+libperl5.38t64:amd64
+libperlio-gzip-perl
+libpfm4:amd64
+libpgm-5.3-0t64:amd64
+libphonenumber8:amd64
+libpinyin-data:amd64
+libpinyin15:amd64
+libpipeline1:amd64
+libpipewire-0.3-0t64:amd64
+libpipewire-0.3-common
+libpipewire-0.3-modules:amd64
+libpixman-1-0:amd64
+libpkcs11-helper1t64:amd64
+libplacebo338:amd64
+libplist-2.0-4:amd64
+libplymouth5:amd64
+libpng16-16t64:amd64
+libpocketsphinx3:amd64
+libpolkit-agent-1-0:amd64
+libpolkit-gobject-1-0:amd64
+libpoppler-cpp0t64:amd64
+libpoppler-glib8t64:amd64
+libpoppler134:amd64
+libpopt0:amd64
+libportal-gtk3-1:amd64
+libportal-gtk4-1:amd64
+libportal1:amd64
+libpostproc57:amd64
+libppd2:amd64
+libppd2-common
+libpq5:amd64
+libproc2-0:amd64
+libprotobuf-c1:amd64
+libprotobuf32t64:amd64
+libproxy1-plugin-gsettings:amd64
+libproxy1-plugin-networkmanager:amd64
+libproxy1v5:amd64
+libpsl5t64:amd64
+libpulse-mainloop-glib0:amd64
+libpulse0:amd64
+libpwquality-common
+libpwquality1:amd64
+libpython3-dev:amd64
+libpython3-stdlib:amd64
+libpython3.12-dev:amd64
+libpython3.12-minimal:amd64
+libpython3.12-stdlib:amd64
+libpython3.12t64:amd64
+libqhull-r8.0:amd64
+libqmi-glib5:amd64
+libqmi-proxy
+libqmi-utils
+libqpdf29t64:amd64
+libqrtr-glib0:amd64
+libqt6core5compat6:amd64
+libqt6core6t64:amd64
+libqt6dbus6t64:amd64
+libqt6gui6t64:amd64
+libqt6multimedia6:amd64
+libqt6network6t64:amd64
+libqt6opengl6t64:amd64
+libqt6printsupport6t64:amd64
+libqt6qml6:amd64
+libqt6qmlmodels6:amd64
+libqt6quick6:amd64
+libqt6svg6:amd64
+libqt6waylandclient6:amd64
+libqt6waylandcompositor6:amd64
+libqt6waylandeglclienthwintegration6:amd64
+libqt6waylandeglcompositorhwintegration6:amd64
+libqt6widgets6t64:amd64
+libqt6wlshellintegration6:amd64
+libquadmath0:amd64
+librabbitmq4:amd64
+libraptor2-0:amd64
+libraqm0:amd64
+librasqal3t64:amd64
+librav1e0:amd64
+libraw1394-11:amd64
+libraw23t64:amd64
+librdf0t64:amd64
+libreadline8t64:amd64
+libreadonly-perl
+libref-array1t64:amd64
+libref-util-perl
+libref-util-xs-perl
+libreoffice-base-core
+libreoffice-calc
+libreoffice-common
+libreoffice-core
+libreoffice-draw
+libreoffice-gnome
+libreoffice-gtk3
+libreoffice-help-common
+libreoffice-help-ru
+libreoffice-impress
+libreoffice-l10n-ru
+libreoffice-math
+libreoffice-style-colibre
+libreoffice-style-elementary
+libreoffice-style-yaru
+libreoffice-uiconfig-calc
+libreoffice-uiconfig-common
+libreoffice-uiconfig-draw
+libreoffice-uiconfig-impress
+libreoffice-uiconfig-math
+libreoffice-uiconfig-writer
+libreoffice-writer
+librest-1.0-0:amd64
+librevenge-0.0-0:amd64
+librhythmbox-core10:amd64
+librist4:amd64
+libroc0.3:amd64
+librole-tiny-perl
+librpm9t64
+librpmbuild9t64
+librpmio9t64
+librpmsign9t64
+librsvg2-2:amd64
+librsvg2-common:amd64
+librsync2t64:amd64
+librtmp1:amd64
+librubberband2:amd64
+librygel-core-2.8-0:amd64
+librygel-db-2.8-0:amd64
+librygel-renderer-2.8-0:amd64
+librygel-server-2.8-0:amd64
+libsamplerate0:amd64
+libsane-common
+libsane-hpaio:amd64
+libsane1:amd64
+libsasl2-2:amd64
+libsasl2-modules:amd64
+libsasl2-modules-db:amd64
+libsasl2-modules-gssapi-mit:amd64
+libsbc1:amd64
+libseccomp2:amd64
+libsecret-1-0:amd64
+libsecret-common
+libselinux1:amd64
+libsemanage-common
+libsemanage2:amd64
+libsensors-config
+libsensors5:amd64
+libsepol2:amd64
+libserd-0-0:amd64
+libsframe1:amd64
+libsgutils2-1.46-2:amd64
+libsharpyuv0:amd64
+libshine3:amd64
+libshout3:amd64
+libsidplay1v5:amd64
+libsigc++-2.0-0v5:amd64
+libsigc++-3.0-0:amd64
+libslang2:amd64
+libsm6:amd64
+libsmartcols1:amd64
+libsmbclient0:amd64
+libsmi2t64:amd64
+libsnapd-glib-2-1:amd64
+libsnappy1v5:amd64
+libsndfile1:amd64
+libsnmp-base
+libsnmp40t64:amd64
+libsodium23:amd64
+libsonic0:amd64
+libsord-0-0:amd64
+libsoup-2.4-1:amd64
+libsoup-3.0-0:amd64
+libsoup-3.0-common
+libsoup2.4-common
+libsource-highlight-common
+libsource-highlight4t64:amd64
+libsoxr0:amd64
+libspa-0.2-bluetooth:amd64
+libspa-0.2-modules:amd64
+libspandsp2t64:amd64
+libspecio-perl
+libspectre1:amd64
+libspeechd2:amd64
+libspeex1:amd64
+libspeexdsp1:amd64
+libsphinxbase3t64:amd64
+libsqlite3-0:amd64
+libsratom-0-0:amd64
+libsrt1.5-gnutls:amd64
+libss2:amd64
+libssh-4:amd64
+libssh-gcrypt-4:amd64
+libssl3t64:amd64
+libsss-certmap0
+libsss-idmap0
+libsss-nss-idmap0
+libstartup-notification0:amd64
+libstdc++-13-dev:amd64
+libstdc++6:amd64
+libstemmer0d:amd64
+libsub-exporter-perl
+libsub-exporter-progressive-perl
+libsub-identify-perl
+libsub-install-perl
+libsub-name-perl:amd64
+libsub-quote-perl
+libsubunit-dev:amd64
+libsubunit0:amd64
+libsuitesparseconfig7:amd64
+libsvtav1enc1d1:amd64
+libswresample4:amd64
+libswscale7:amd64
+libsynctex2:amd64
+libsysmetrics1:amd64
+libsystemd-shared:amd64
+libsystemd0:amd64
+libtag1v5:amd64
+libtag1v5-vanilla:amd64
+libtalloc2:amd64
+libtasn1-6:amd64
+libtcl8.6:amd64
+libtdb1:amd64
+libteamdctl0:amd64
+libtevent0t64:amd64
+libtext-charwidth-perl:amd64
+libtext-iconv-perl:amd64
+libtext-wrapi18n-perl
+libthai-data
+libthai0:amd64
+libtheora0:amd64
+libtie-ixhash-perl
+libtiff6:amd64
+libtimedate-perl
+libtinfo6:amd64
+libtirpc-common
+libtirpc3t64:amd64
+libtk8.6:amd64
+libtotem-plparser-common
+libtotem-plparser18:amd64
+libtotem0:amd64
+libtraceevent1:amd64
+libtraceevent1-plugin:amd64
+libtracefs1:amd64
+libtracker-sparql-3.0-0:amd64
+libtry-tiny-perl
+libts0t64:amd64
+libtsan2:amd64
+libtss2-esys-3.0.2-0t64:amd64
+libtss2-mu-4.0.1-0t64:amd64
+libtss2-rc0t64:amd64
+libtss2-sys1t64:amd64
+libtss2-tcti-cmd0t64:amd64
+libtss2-tcti-device0t64:amd64
+libtss2-tcti-libtpms0t64:amd64
+libtss2-tcti-mssim0t64:amd64
+libtss2-tcti-spi-helper0t64:amd64
+libtss2-tcti-swtpm0t64:amd64
+libtss2-tctildr0t64:amd64
+libtwolame0:amd64
+libtypes-serialiser-perl
+libu2f-udev
+libubsan1:amd64
+libuchardet0:amd64
+libudev1:amd64
+libudfread0:amd64
+libudisks2-0:amd64
+libunibreak5:amd64
+libunistring5:amd64
+libunity-protocol-private0:amd64
+libunity-scopes-json-def-desktop
+libunity9:amd64
+libuno-cppu3t64
+libuno-cppuhelpergcc3-3t64
+libuno-purpenvhelpergcc3-3t64
+libuno-sal3t64
+libuno-salhelpergcc3-3t64
+libunwind8:amd64
+libupower-glib3:amd64
+liburi-perl
+libusb-1.0-0:amd64
+libusbmuxd6:amd64
+libuuid1:amd64
+libuv1t64:amd64
+libv4l-0t64:amd64
+libv4lconvert0t64:amd64
+libva-drm2:amd64
+libva-wayland2:amd64
+libva-x11-2:amd64
+libva2:amd64
+libvariable-magic-perl
+libvdpau1:amd64
+libvidstab1.1:amd64
+libvisio-0.1-1:amd64
+libvisual-0.4-0:amd64
+libvncclient1:amd64
+libvolume-key1:amd64
+libvorbis0a:amd64
+libvorbisenc2:amd64
+libvorbisfile3:amd64
+libvpl2
+libvpx9:amd64
+libvte-2.91-0:amd64
+libvte-2.91-common
+libvulkan1:amd64
+libwacom-common
+libwacom9:amd64
+libwavpack1:amd64
+libwayland-client0:amd64
+libwayland-cursor0:amd64
+libwayland-egl1:amd64
+libwayland-server0:amd64
+libwbclient0:amd64
+libwebkit2gtk-4.1-0:amd64
+libwebkitgtk-6.0-4:amd64
+libwebp7:amd64
+libwebpdemux2:amd64
+libwebpmux3:amd64
+libwebrtc-audio-processing1:amd64
+libwhoopsie-preferences0
+libwhoopsie0:amd64
+libwinpr3-3:amd64
+libwireplumber-0.4-0:amd64
+libwireshark-data
+libwireshark17t64:amd64
+libwiretap14t64:amd64
+libwmf-0.2-7:amd64
+libwmf-0.2-7-gtk:amd64
+libwmf0.2-7-gtk:amd64
+libwmflite-0.2-7:amd64
+libwnck-3-0:amd64
+libwnck-3-common
+libwoff1:amd64
+libwpd-0.10-10:amd64
+libwpg-0.3-3:amd64
+libwps-0.4-4:amd64
+libwrap0:amd64
+libwsutil15t64:amd64
+libwww-perl
+libwww-robotrules-perl
+libx11-6:amd64
+libx11-data
+libx11-protocol-perl
+libx11-xcb1:amd64
+libx264-164:amd64
+libx265-199:amd64
+libxatracker2:amd64
+libxau6:amd64
+libxaw7:amd64
+libxcb-damage0:amd64
+libxcb-dri2-0:amd64
+libxcb-dri3-0:amd64
+libxcb-glx0:amd64
+libxcb-icccm4:amd64
+libxcb-image0:amd64
+libxcb-keysyms1:amd64
+libxcb-present0:amd64
+libxcb-randr0:amd64
+libxcb-render-util0:amd64
+libxcb-render0:amd64
+libxcb-res0:amd64
+libxcb-shape0:amd64
+libxcb-shm0:amd64
+libxcb-sync1:amd64
+libxcb-util1:amd64
+libxcb-xfixes0:amd64
+libxcb-xkb1:amd64
+libxcb-xv0:amd64
+libxcb1:amd64
+libxcomposite1:amd64
+libxcursor1:amd64
+libxcvt0:amd64
+libxdamage1:amd64
+libxdmcp6:amd64
+libxext6:amd64
+libxfixes3:amd64
+libxfont2:amd64
+libxft2:amd64
+libxi6:amd64
+libxinerama1:amd64
+libxkbcommon-x11-0:amd64
+libxkbcommon0:amd64
+libxkbfile1:amd64
+libxkbregistry0:amd64
+libxklavier16:amd64
+libxml-parser-perl
+libxml-twig-perl
+libxml-xpathengine-perl
+libxml2:amd64
+libxml2-dev:amd64
+libxmlb2:amd64
+libxmlsec1t64:amd64
+libxmlsec1t64-nss:amd64
+libxmu6:amd64
+libxmuu1:amd64
+libxpm4:amd64
+libxpresent1:amd64
+libxrandr2:amd64
+libxrender1:amd64
+libxres1:amd64
+libxshmfence1:amd64
+libxslt1.1:amd64
+libxss1:amd64
+libxstring-perl:amd64
+libxt6t64:amd64
+libxtables12:amd64
+libxtst6:amd64
+libxv1:amd64
+libxvidcore4:amd64
+libxvmc1:amd64
+libxxf86dga1:amd64
+libxxf86vm1:amd64
+libxxhash0:amd64
+libyajl2:amd64
+libyaml-0-2:amd64
+libyelp0:amd64
+libz3-4:amd64
+libz3-dev:amd64
+libzimg2:amd64
+libzix-0-0:amd64
+libzmq5:amd64
+libzstd1:amd64
+libzvbi-common
+libzvbi0t64:amd64
+linux-base
+linux-firmware
+linux-generic-hwe-24.04
+linux-headers-6.11.0-24-generic
+linux-headers-6.11.0-26-generic
+linux-headers-generic-hwe-24.04
+linux-hwe-6.11-headers-6.11.0-24
+linux-hwe-6.11-headers-6.11.0-26
+linux-hwe-6.11-tools-6.11.0-24
+linux-hwe-6.11-tools-6.11.0-26
+linux-image-6.11.0-24-generic
+linux-image-6.11.0-26-generic
+linux-image-6.8.0-62-generic
+linux-image-generic
+linux-image-generic-hwe-24.04
+linux-libc-dev:amd64
+linux-modules-6.11.0-24-generic
+linux-modules-6.11.0-26-generic
+linux-modules-6.8.0-62-generic
+linux-modules-extra-6.11.0-24-generic
+linux-modules-extra-6.11.0-26-generic
+linux-modules-extra-6.8.0-62-generic
+linux-sound-base
+linux-tools-6.11.0-24-generic
+linux-tools-6.11.0-26-generic
+linux-tools-common
+llvm-18
+llvm-18-dev
+llvm-18-linker-tools
+llvm-18-runtime
+llvm-18-tools
+locales
+login
+logrotate
+logsave
+logwatch
+lp-solve
+lsb-release
+lshw
+lsof
+lto-disabled-list
+m17n-db
+mailutils
+mailutils-common
+make
+man-db
+manpages
+manpages-dev
+marco
+marco-common
+mate-desktop-common
+mawk
+media-player-info
+media-types
+memtest86+
+mesa-libgallium:amd64
+mesa-va-drivers:amd64
+mesa-vdpau-drivers:amd64
+mesa-vulkan-drivers:amd64
+metacity
+metacity-common
+mobile-broadband-provider-info
+modemmanager
+mokutil
+mount
+mousetweaks
+mscompress
+mtr-tiny
+mutter-common
+mutter-common-bin
+mysql-common
+mythes-ru
+nano
+nautilus
+nautilus-data
+nautilus-extension-gnome-terminal:amd64
+nautilus-sendto
+ncdu
+ncurses-base
+ncurses-bin
+ncurses-term
+net-tools
+netbase
+netcat-openbsd
+netplan-generator
+netplan.io
+network-manager
+network-manager-config-connectivity-ubuntu
+network-manager-gnome
+network-manager-openvpn
+network-manager-openvpn-gnome
+network-manager-pptp
+network-manager-pptp-gnome
+networkd-dispatcher
+nftables
+ntfs-3g
+numactl
+ocl-icd-libopencl1:amd64
+openprinting-ppds
+openssh-client
+openssh-server
+openssh-sftp-server
+openssl
+openvpn
+orca
+os-prober
+p11-kit
+p11-kit-modules:amd64
+packagekit
+packagekit-tools
+parted
+passwd
+patch
+pci.ids
+pciutils
+pcmciautils
+perl
+perl-base
+perl-modules-5.38
+perl-openssl-defaults:amd64
+pinentry-curses
+pinentry-gnome3
+piper
+pipewire:amd64
+pipewire-alsa:amd64
+pipewire-audio
+pipewire-bin
+pipewire-pulse
+pkexec
+plymouth
+plymouth-label
+plymouth-theme-spinner
+plymouth-theme-ubuntu-text
+pocketsphinx-en-us
+policykit-1
+policykit-desktop-privileges
+polkitd
+poppler-data
+poppler-utils
+postfix
+power-profiles-daemon
+powermgmt-base
+ppp
+pptp-linux
+printer-driver-brlaser
+printer-driver-c2esp
+printer-driver-foo2zjs
+printer-driver-foo2zjs-common
+printer-driver-hpcups
+printer-driver-m2300w
+printer-driver-min12xxw
+printer-driver-pnm2ppa
+printer-driver-postscript-hp
+printer-driver-ptouch
+printer-driver-pxljr
+printer-driver-sag-gdi
+printer-driver-splix
+procps
+psmisc
+publicsuffix
+python-apt-common
+python-babel-localedata
+python-matplotlib-data
+python3
+python3-appdirs
+python3-apport
+python3-apt
+python3-aptdaemon
+python3-aptdaemon.gtk3widgets
+python3-asttokens
+python3-attr
+python3-babel
+python3-bcrypt
+python3-blinker
+python3-bpfcc
+python3-brlapi:amd64
+python3-brotli
+python3-bs4
+python3-cairo
+python3-certifi
+python3-cffi-backend:amd64
+python3-chardet
+python3-click
+python3-colorama
+python3-commandnotfound
+python3-configobj
+python3-contourpy
+python3-cryptography
+python3-cssselect
+python3-cups:amd64
+python3-cupshelpers
+python3-cycler
+python3-dateutil
+python3-dbus
+python3-debconf
+python3-debian
+python3-decorator
+python3-defer
+python3-dev
+python3-distro
+python3-distro-info
+python3-distupgrade
+python3-evdev
+python3-executing
+python3-fasteners
+python3-fonttools
+python3-fs
+python3-gdbm:amd64
+python3-gi
+python3-gi-cairo
+python3-html5lib
+python3-httplib2
+python3-ibus-1.0
+python3-idna
+python3-ipython
+python3-jedi
+python3-jinja2
+python3-json-pointer
+python3-jsonpatch
+python3-jsonschema
+python3-jwt
+python3-kiwisolver
+python3-launchpadlib
+python3-lazr.restfulclient
+python3-lazr.uri
+python3-louis
+python3-lxml:amd64
+python3-lz4
+python3-mako
+python3-markdown-it
+python3-markupsafe
+python3-matplotlib
+python3-matplotlib-inline
+python3-mdurl
+python3-minimal
+python3-monotonic
+python3-mpmath
+python3-nacl
+python3-netaddr
+python3-netplan
+python3-numpy
+python3-oauthlib
+python3-olefile
+python3-packaging
+python3-paramiko
+python3-parso
+python3-pexpect
+python3-pil:amd64
+python3-pil.imagetk:amd64
+python3-pip
+python3-pkg-resources
+python3-problem-report
+python3-prompt-toolkit
+python3-psutil
+python3-ptyprocess
+python3-pure-eval
+python3-pygments
+python3-pyparsing
+python3-pyrsistent:amd64
+python3-pyudev
+python3-requests
+python3-rich
+python3-scapy
+python3-scipy
+python3-serial
+python3-setuptools
+python3-six
+python3-software-properties
+python3-soupsieve
+python3-speechd
+python3-sss
+python3-stack-data
+python3-sympy
+python3-systemd
+python3-tk:amd64
+python3-traitlets
+python3-typeshed
+python3-typing-extensions
+python3-tz
+python3-ufolib2
+python3-unicodedata2
+python3-uno
+python3-update-manager
+python3-urllib3
+python3-wadllib
+python3-wcwidth
+python3-webencodings
+python3-wheel
+python3-xdg
+python3-xkit
+python3-xlib
+python3-yaml
+python3.12
+python3.12-dev
+python3.12-minimal
+qt6-gtk-platformtheme:amd64
+qt6-qpa-plugins:amd64
+qt6-translations-l10n
+qt6-wayland:amd64
+ratbagd
+readline-common
+remmina
+remmina-common
+remmina-plugin-rdp:amd64
+remmina-plugin-secret:amd64
+remmina-plugin-vnc:amd64
+rfkill
+rhythmbox
+rhythmbox-data
+rhythmbox-plugin-alternative-toolbar
+rhythmbox-plugins
+rpcsvc-proto
+rpm
+rpm-common
+rpm2cpio
+rsync
+rsyslog
+rtkit
+rygel
+samba-libs:amd64
+sane-airscan
+sane-utils
+sbsigntool
+seahorse
+secureboot-db
+sed
+sensible-utils
+session-migration
+sgml-base
+sgml-data
+shared-mime-info
+shim-signed
+shotwell
+shotwell-common
+simple-scan
+snapd
+software-properties-common
+software-properties-gtk
+solaar
+sound-icons
+sound-theme-freedesktop
+speech-dispatcher
+speech-dispatcher-audio-plugins:amd64
+speech-dispatcher-espeak-ng
+spice-vdagent
+squashfs-tools
+ssh-import-id
+ssl-cert
+sssd
+sssd-ad
+sssd-ad-common
+sssd-common
+sssd-ipa
+sssd-krb5
+sssd-krb5-common
+sssd-ldap
+sssd-proxy
+strace
+sudo
+switcheroo-control
+sysstat
+system-config-printer-common
+system-config-printer-udev
+systemd
+systemd-dev
+systemd-hwe-hwdb
+systemd-oomd
+systemd-resolved
+systemd-sysv
+sysvinit-utils
+tar
+tcl
+tcl8.6
+tcpdump
+tecla
+telnet
+thermald
+thunderbird
+thunderbird-locale-ru
+time
+tk8.6-blt2.5
+tnftp
+totem
+totem-common
+totem-plugins
+tpm-udev
+trace-cmd
+tracker
+tracker-extract
+tracker-miner-fs
+transmission-common
+transmission-gtk
+tshark
+tzdata
+tzdata-legacy
+ubuntu-advantage-desktop-daemon
+ubuntu-desktop
+ubuntu-desktop-minimal
+ubuntu-docs
+ubuntu-drivers-common
+ubuntu-kernel-accessories
+ubuntu-keyring
+ubuntu-minimal
+ubuntu-mono
+ubuntu-pro-client
+ubuntu-pro-client-l10n
+ubuntu-release-upgrader-core
+ubuntu-release-upgrader-gtk
+ubuntu-report
+ubuntu-restricted-addons
+ubuntu-session
+ubuntu-settings
+ubuntu-standard
+ubuntu-wallpapers
+ubuntu-wallpapers-noble
+ucf
+udev
+udisks2
+ufw
+unattended-upgrades
+unicode-data
+uno-libs-private
+unzip
+update-inetd
+update-manager
+update-manager-core
+update-notifier
+update-notifier-common
+upower
+ure
+usb-creator-common
+usb-creator-gtk
+usb-modeswitch
+usb-modeswitch-data
+usb.ids
+usbmuxd
+usbutils
+util-linux
+uuid-runtime
+va-driver-all:amd64
+vdpau-driver-all:amd64
+vim
+vim-common
+vim-runtime
+vim-tiny
+wamerican
+webp-pixbuf-loader:amd64
+wget
+whiptail
+whoopsie
+whoopsie-preferences
+wireless-regdb
+wireless-tools
+wireplumber
+wireshark
+wireshark-common
+wpasupplicant
+x11-apps
+x11-common
+x11-session-utils
+x11-utils
+x11-xkb-utils
+x11-xserver-utils
+xauth
+xbitmaps
+xbrlapi
+xcursor-themes
+xcvt
+xdg-dbus-proxy
+xdg-desktop-portal
+xdg-desktop-portal-gnome
+xdg-desktop-portal-gtk
+xdg-user-dirs
+xdg-user-dirs-gtk
+xdg-utils
+xfonts-base
+xfonts-encodings
+xfonts-scalable
+xfonts-utils
+xinit
+xinput
+xkb-data
+xml-core
+xorg
+xorg-docs-core
+xorriso
+xserver-common
+xserver-xephyr
+xserver-xorg
+xserver-xorg-core
+xserver-xorg-input-all
+xserver-xorg-input-libinput
+xserver-xorg-input-wacom
+xserver-xorg-legacy
+xserver-xorg-video-all
+xserver-xorg-video-amdgpu
+xserver-xorg-video-ati
+xserver-xorg-video-fbdev
+xserver-xorg-video-intel
+xserver-xorg-video-nouveau
+xserver-xorg-video-qxl
+xserver-xorg-video-radeon
+xserver-xorg-video-vesa
+xserver-xorg-video-vmware
+xwayland
+xxd
+xz-utils
+yaru-theme-gnome-shell
+yaru-theme-gtk
+yaru-theme-icon
+yaru-theme-sound
+yelp
+yelp-xsl
+zenity
+zenity-common
+zip
+zlib1g:amd64
+zlib1g-dev:amd64
+zstd
+
+Запущенные процессы
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0  23928 15068 ?        Ss   июн22   0:10 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    июн22   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    июн22   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-slub_flushwq]
+root           7  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-netns]
+root          12  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-mm_percpu_wq]
+root          13  0.0  0.0      0     0 ?        I    июн22   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    июн22   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    июн22   0:00 [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    июн22   0:00 [ksoftirqd/0]
+root          17  0.0  0.0      0     0 ?        I    июн22   0:06 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    июн22   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          19  0.0  0.0      0     0 ?        S    июн22   0:00 [rcu_exp_gp_kthread_worker]
+root          20  0.0  0.0      0     0 ?        S    июн22   0:00 [migration/0]
+root          21  0.0  0.0      0     0 ?        S    июн22   0:00 [idle_inject/0]
+root          22  0.0  0.0      0     0 ?        S    июн22   0:00 [cpuhp/0]
+root          23  0.0  0.0      0     0 ?        S    июн22   0:00 [cpuhp/1]
+root          24  0.0  0.0      0     0 ?        S    июн22   0:00 [idle_inject/1]
+root          25  0.0  0.0      0     0 ?        S    июн22   0:00 [migration/1]
+root          26  0.0  0.0      0     0 ?        S    июн22   0:00 [ksoftirqd/1]
+root          29  0.0  0.0      0     0 ?        S    июн22   0:00 [cpuhp/2]
+root          30  0.0  0.0      0     0 ?        S    июн22   0:00 [idle_inject/2]
+root          31  0.0  0.0      0     0 ?        S    июн22   0:00 [migration/2]
+root          32  0.0  0.0      0     0 ?        S    июн22   0:00 [ksoftirqd/2]
+root          35  0.0  0.0      0     0 ?        S    июн22   0:00 [cpuhp/3]
+root          36  0.0  0.0      0     0 ?        S    июн22   0:00 [idle_inject/3]
+root          37  0.0  0.0      0     0 ?        S    июн22   0:00 [migration/3]
+root          38  0.0  0.0      0     0 ?        S    июн22   0:00 [ksoftirqd/3]
+root          41  0.0  0.0      0     0 ?        S    июн22   0:00 [kdevtmpfs]
+root          42  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-inet_frag_wq]
+root          44  0.0  0.0      0     0 ?        S    июн22   0:00 [kauditd]
+root          45  0.0  0.0      0     0 ?        S    июн22   0:00 [khungtaskd]
+root          46  0.0  0.0      0     0 ?        S    июн22   0:00 [oom_reaper]
+root          48  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-writeback]
+root          49  0.0  0.0      0     0 ?        S    июн22   0:00 [kcompactd0]
+root          50  0.0  0.0      0     0 ?        SN   июн22   0:00 [ksmd]
+root          51  0.0  0.0      0     0 ?        SN   июн22   0:00 [khugepaged]
+root          52  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-kintegrityd]
+root          53  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-kblockd]
+root          54  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-blkcg_punt_bio]
+root          55  0.0  0.0      0     0 ?        S    июн22   0:00 [irq/9-acpi]
+root          58  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-tpm_dev_wq]
+root          59  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-ata_sff]
+root          60  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-md]
+root          61  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-md_bitmap]
+root          62  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-edac-poller]
+root          63  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-devfreq_wq]
+root          64  0.0  0.0      0     0 ?        S    июн22   0:00 [watchdogd]
+root          67  0.0  0.0      0     0 ?        S    июн22   0:00 [kswapd0]
+root          68  0.0  0.0      0     0 ?        S    июн22   0:00 [ecryptfs-kthread]
+root          69  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-kthrotld]
+root          70  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-acpi_thermal_pm]
+root          73  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-mld]
+root          75  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-ipv6_addrconf]
+root          82  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-kstrp]
+root          97  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-charger_manager]
+root         202  0.0  0.0      0     0 ?        S    июн22   0:00 [scsi_eh_0]
+root         204  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-scsi_tmf_0]
+root         206  0.0  0.0      0     0 ?        S    июн22   0:00 [scsi_eh_1]
+root         207  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-scsi_tmf_1]
+root         210  0.0  0.0      0     0 ?        S    июн22   0:00 [scsi_eh_2]
+root         211  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-scsi_tmf_2]
+root         212  0.0  0.0      0     0 ?        S    июн22   0:00 [scsi_eh_3]
+root         213  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-scsi_tmf_3]
+root         218  0.0  0.0      0     0 ?        S    июн22   0:00 [scsi_eh_4]
+root         219  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-scsi_tmf_4]
+root         220  0.0  0.0      0     0 ?        S    июн22   0:00 [scsi_eh_5]
+root         221  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-scsi_tmf_5]
+root         375  0.0  0.0      0     0 ?        S    июн22   0:02 [jbd2/sdb3-8]
+root         376  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-ext4-rsv-conversion]
+root         426  0.0  0.1  59452 19032 ?        S<s  июн22   0:01 /usr/lib/systemd/systemd-journald
+root         517  0.0  0.0  30844  8864 ?        Ss   июн22   0:00 /usr/lib/systemd/systemd-udevd
+root         530  0.0  0.0      0     0 ?        S    июн22   0:00 [psimon]
+root         652  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-cryptd]
+root         788  0.0  0.0      0     0 ?        I<   июн22   0:00 [kworker/R-ttm]
+root         858  0.0  0.0      0     0 ?        S    июн22   0:00 [card1-crtc0]
+root         859  0.0  0.0      0     0 ?        S    июн22   0:00 [card1-crtc1]
+root         860  0.0  0.0      0     0 ?        S    июн22   0:00 [card1-crtc2]
+root         861  0.0  0.0      0     0 ?        S    июн22   0:00 [card1-crtc3]
+root         862  0.0  0.0      0     0 ?        S    июн22   0:00 [card1-crtc4]
+root         863  0.0  0.0      0     0 ?        S    июн22   0:00 [card1-crtc5]
+systemd+     982  0.0  0.0  17556  7664 ?        Ss   июн22   0:11 /usr/lib/systemd/systemd-oomd
+systemd+     987  0.0  0.0  22900 14668 ?        Ss   июн22   0:02 /usr/lib/systemd/systemd-resolved
+avahi       1153  0.0  0.0   8672  4532 ?        Ss   июн22   0:00 avahi-daemon: running [user-2.local]
+message+    1158  0.0  0.0  12400  7712 ?        Ss   июн22   0:03 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gnome-r+    1185  0.0  0.1 439076 16464 ?        Ssl  июн22   0:00 /usr/libexec/gnome-remote-desktop-daemon --system
+root        1397  0.0  0.1  38072 23356 ?        Ss   июн22   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+polkitd     1398  0.0  0.0 316252 14344 ?        Ssl  июн22   0:02 /usr/lib/polkit-1/polkitd --no-debug
+root        1399  0.0  0.0 311284  8064 ?        Ssl  июн22   0:00 /usr/libexec/power-profiles-daemon
+root        1410  0.0  0.2 1922952 40216 ?       Ssl  июн22   0:05 /usr/lib/snapd/snapd
+root        1413  0.0  0.0 311200  8144 ?        Ssl  июн22   0:00 /usr/libexec/accounts-daemon
+root        1414  0.0  0.0   6828  2932 ?        Ss   июн22   0:00 /usr/sbin/cron -f -P
+root        1415  0.0  0.0 307312  6872 ?        Ssl  июн22   0:00 /usr/libexec/switcheroo-control
+root        1417  0.0  0.0  18164  9300 ?        Ss   июн22   0:00 /usr/lib/systemd/systemd-logind
+root        1418  0.0  0.0 422464 11636 ?        Ssl  июн22   0:01 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+avahi       1424  0.0  0.0   8480  1584 ?        S    июн22   0:00 avahi-daemon: chroot helper
+root        1487  0.0  0.1 334840 19904 ?        Ssl  июн22   0:01 /usr/sbin/NetworkManager --no-daemon
+root        1488  0.0  0.0  17380  6564 ?        Ss   июн22   0:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root        1517  0.0  0.0 318444 12652 ?        Ssl  июн22   0:00 /usr/sbin/ModemManager
+root        1690  0.0  0.0   2892  1568 ?        Ss   июн22   0:00 /bin/sh /snap/cups/1100/scripts/run-cups-browsed
+root        1691  0.0  0.0   2892  1688 ?        Ss   июн22   0:00 /bin/sh /snap/cups/1100/scripts/run-cupsd
+root        1694  0.0  0.1 115504 25284 ?        Ssl  июн22   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+_chrony     1749  0.0  0.0  19400  3708 ?        S    июн22   0:00 /usr/sbin/chronyd -F 1
+_chrony     1761  0.0  0.0  11096  3392 ?        S    июн22   0:00 /usr/sbin/chronyd -F 1
+root        1774  0.0  0.0 312620  9620 ?        Ssl  июн22   0:00 /usr/sbin/gdm3
+colord      1813  0.0  0.0 318112 14876 ?        Ssl  июн22   0:00 /usr/libexec/colord
+kernoops    1966  0.0  0.0  12744  2488 ?        Ss   июн22   0:00 /usr/sbin/kerneloops --test
+kernoops    1969  0.0  0.0  12744  2544 ?        Ss   июн22   0:00 /usr/sbin/kerneloops
+root        1999  0.0  0.0  63872 13356 ?        S    июн22   0:00 cupsd -f -s /var/snap/cups/common/etc/cups/cups-files.conf -c /var/snap/cups/common/etc/cups/cupsd.conf
+root        2000  0.0  0.0 241572  9928 ?        Sl   июн22   0:00 cups-proxyd /var/snap/cups/common/run/cups.sock /run/cups/cups.sock -l --logdir /var/snap/cups/1100/var/log
+root        2003  0.0  0.0   2892  1040 ?        S    июн22   0:00 /bin/sh /snap/cups/1100/scripts/run-cups-browsed
+rtkit       2012  0.0  0.0  88476  3508 ?        SNsl июн22   0:00 /usr/libexec/rtkit-daemon
+root        2206  0.0  0.0 315900 11048 ?        Ssl  июн22   0:00 /usr/libexec/upowerd
+root        2565  0.0  0.2 589384 44512 ?        Ssl  июн22   0:07 /usr/libexec/fwupd/fwupd
+root        2657  0.0  0.0 461768 11964 ?        Sl   июн22   0:00 gdm-session-worker [pam/gdm-password]
+maxim       2670  0.0  0.0  21512 13084 ?        Ss   июн22   0:06 /usr/lib/systemd/systemd --user
+maxim       2675  0.0  0.0  21460  3796 ?        S    июн22   0:00 (sd-pam)
+maxim       2687  0.2  0.1 123444 23820 ?        Ssl  июн22   3:55 /usr/bin/pipewire
+maxim       2688  0.0  0.0  95140  5956 ?        Ssl  июн22   0:00 /usr/bin/pipewire -c filter-chain.conf
+maxim       2694  0.0  0.1 405932 20804 ?        Ssl  июн22   0:04 /usr/bin/wireplumber
+maxim       2697  0.2  0.2 135628 35656 ?        SLsl июн22   3:41 /usr/bin/pipewire-pulse
+maxim       2702  0.0  0.0 314360 10636 ?        SLsl июн22   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+maxim       2704  0.0  0.0  11360  7188 ?        Ss   июн22   0:57 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+maxim       2725  0.0  0.0 681828  8240 ?        Ssl  июн22   0:00 /usr/libexec/xdg-document-portal
+maxim       2738  0.0  0.0 307240  6588 ?        Ssl  июн22   0:00 /usr/libexec/xdg-permission-store
+root        2747  0.0  0.0   2704  2060 ?        Ss   июн22   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+maxim       2824  0.0  0.0 233496  6392 tty2     Ssl+ июн22   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+maxim       2831  0.0  0.1 296064 16984 tty2     Sl+  июн22   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+maxim       2893  0.0  0.0 162652  7060 ?        Ssl  июн22   0:00 /usr/libexec/gcr-ssh-agent --base-dir /run/user/1000/gcr
+maxim       2894  0.0  0.0  88952  5684 ?        Ssl  июн22   0:00 /usr/libexec/gnome-session-ctl --monitor
+maxim       2909  0.0  0.0 312128  8560 ?        Ssl  июн22   0:00 /usr/libexec/gvfsd
+maxim       2916  0.0  0.0 457516  7620 ?        Sl   июн22   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+maxim       2919  0.0  0.1 593036 19676 ?        Ssl  июн22   0:01 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+maxim       2949  0.0  0.0 383120  7868 ?        Sl   июн22   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+maxim       2950  1.1  2.2 5050780 366336 ?      Ssl  июн22  18:24 /usr/bin/gnome-shell
+maxim       2962  0.0  0.0   9612  5260 ?        S    июн22   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+maxim       3101  0.0  0.0 236068  7692 ?        Sl   июн22   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+maxim       3121  0.0  0.1 655016 17800 ?        Sl   июн22   0:00 /usr/libexec/gnome-shell-calendar-server
+maxim       3125  0.0  0.0 230324  6172 ?        Ssl  июн22   0:00 /usr/libexec/dconf-service
+maxim       3149  0.0  0.1 2652332 27548 ?       Sl   июн22   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.Shell.Notifications
+maxim       3151  0.0  0.0 386652 12968 ?        Ssl  июн22   0:20 /usr/bin/ibus-daemon --panel disable
+maxim       3155  0.0  0.0 381596  7280 ?        Ssl  июн22   0:00 /usr/libexec/gsd-a11y-settings
+maxim       3157  0.0  0.1 411728 21792 ?        Ssl  июн22   0:00 /usr/libexec/gsd-color
+maxim       3163  0.0  0.0 429760 12644 ?        Ssl  июн22   0:00 /usr/libexec/gsd-datetime
+maxim       3171  0.0  0.0 457080  8524 ?        Ssl  июн22   0:01 /usr/libexec/gsd-housekeeping
+maxim       3179  0.0  0.1 484288 21448 ?        Ssl  июн22   0:00 /usr/libexec/gsd-keyboard
+maxim       3184  0.0  0.1 593004 27048 ?        Ssl  июн22   0:55 /usr/libexec/gsd-media-keys
+maxim       3186  0.0  0.1 522364 25476 ?        Ssl  июн22   0:00 /usr/libexec/gsd-power
+maxim       3188  0.0  0.0 321380 11872 ?        Ssl  июн22   0:00 /usr/libexec/gsd-print-notifications
+maxim       3189  0.0  0.0 528980  7264 ?        Ssl  июн22   0:00 /usr/libexec/gsd-rfkill
+maxim       3192  0.0  0.0 307180  6372 ?        Ssl  июн22   0:00 /usr/libexec/gsd-screensaver-proxy
+maxim       3195  0.0  0.0 541272 12328 ?        Ssl  июн22   0:00 /usr/libexec/gsd-sharing
+maxim       3196  0.0  0.0 457628  8648 ?        Ssl  июн22   0:00 /usr/libexec/gsd-smartcard
+maxim       3198  0.0  0.0 391716 10288 ?        Ssl  июн22   0:00 /usr/libexec/gsd-sound
+maxim       3199  0.0  0.0 305756  8120 ?        Sl   июн22   0:00 /usr/libexec/gsd-disk-utility-notify
+maxim       3200  0.0  0.1 485252 21992 ?        Ssl  июн22   0:00 /usr/libexec/gsd-wacom
+maxim       3216  0.0  0.6 1138324 111648 ?      Sl   июн22   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+maxim       3231  0.0  0.4 605260 65732 ?        Sl   июн22   0:00 /usr/bin/python3 /usr/bin/solaar --window=hide
+maxim       3358  0.0  0.0 234452  7400 ?        Sl   июн22   0:00 /usr/libexec/ibus-memconf
+maxim       3359  0.0  0.1 420128 31308 ?        Sl   июн22   0:04 /usr/libexec/ibus-extension-gtk3
+maxim       3365  0.0  0.0 308048  7644 ?        Sl   июн22   0:00 /usr/libexec/ibus-portal
+maxim       3379  0.0  0.5 1373088 90204 ?       Ssl  июн22   0:00 /usr/libexec/evolution-source-registry
+maxim       3380  0.0  0.0 387496 11600 ?        Ssl  июн22   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+maxim       3386  0.0  0.0 307512  6904 ?        Ssl  июн22   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+maxim       3391  0.0  0.0 307392  6824 ?        Ssl  июн22   0:00 /usr/libexec/gvfs-goa-volume-monitor
+maxim       3405  0.0  0.1 544648 24792 ?        Sl   июн22   0:00 /usr/libexec/goa-daemon
+maxim       3406  0.0  0.0  39128 11948 ?        Ss   июн22   0:00 /snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration
+maxim       3467  0.0  0.1 429632 31144 ?        Sl   июн22   0:00 /snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration
+maxim       3470  0.0  0.0 413856 15528 ?        Sl   июн22   0:00 /usr/libexec/gsd-printer
+maxim       3483  0.0  0.0 386952  9752 ?        Sl   июн22   0:00 /usr/libexec/goa-identity-service
+maxim       3489  0.0  0.0 386996  8196 ?        Ssl  июн22   0:01 /usr/libexec/gvfs-afc-volume-monitor
+maxim       3510  0.0  0.0 308480  7440 ?        Ssl  июн22   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+maxim       3532  0.0  0.0 234704  7824 ?        Sl   июн22   0:06 /usr/libexec/ibus-engine-simple
+maxim       3577  0.0  0.1 1363912 25320 ?       Ssl  июн22   0:00 /usr/libexec/evolution-calendar-factory
+maxim       3583  0.0  0.0 533572  9768 ?        Sl   июн22   0:00 /usr/libexec/gvfsd-trash --spawner :1.20 /org/gtk/gvfs/exec_spaw/0
+maxim       3603  0.0  0.1 1012576 29260 ?       SNsl июн22   0:11 /usr/libexec/tracker-miner-fs-3
+maxim       3608  0.0  0.1 2652308 27748 ?       Sl   июн22   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
+maxim       3701  0.0  0.1 823444 30880 ?        Ssl  июн22   0:00 /usr/libexec/evolution-addressbook-factory
+maxim       3737  0.0  0.0 234016  7028 ?        Ssl  июн22   0:00 /usr/libexec/gvfsd-metadata
+maxim       3750  0.0  0.0 699624 15424 ?        Ssl  июн22   0:01 /usr/libexec/xdg-desktop-portal
+maxim       3766  0.0  1.7 2595420 286312 ?      Ssl  июн22   0:22 /usr/libexec/xdg-desktop-portal-gnome
+maxim       3784  0.0  0.1 416248 27560 ?        Ssl  июн22   0:00 /usr/libexec/xdg-desktop-portal-gtk
+maxim       3846  0.7  2.0 34376024 330176 ?     Sl   июн22  12:29 /snap/chromium/3117/usr/lib/chromium-browser/chrome --password-store=basic --disable-features=TFLiteLanguageDetectionEnabled
+maxim       3929  0.0  0.0 33569104 4284 ?       Sl   июн22   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/maxim/snap/chromium/common/chromium/Crash Reports --annotation=channel=snap --annotation=lsb-release=Ubuntu Core 22 --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=135.0.7049.114 --initial-client-fd=5 --shared-client-connection
+maxim       3931  0.0  0.0 33560892 3868 ?       S    июн22   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/maxim/snap/chromium/common/chromium/Crash Reports --annotation=channel=snap --annotation=lsb-release=Ubuntu Core 22 --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=135.0.7049.114 --initial-client-fd=4 --shared-client-connection
+maxim       3935  0.0  0.3 33932468 63024 ?      S    июн22   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable
+maxim       3936  0.0  0.3 33932456 63236 ?      S    июн22   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=zygote --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable
+maxim       3938  0.0  0.1 33932484 17116 ?      S    июн22   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=zygote --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable
+maxim       3940  0.0  0.2 568500 37624 ?        Sl   июн22   0:01 /usr/bin/update-notifier
+maxim       3978  0.3  0.7 1072364 122944 ?      Sl   июн22   5:11 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.5BGL82 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+maxim       3997  0.0  0.5 1068072 88152 ?       Ssl  июн22   0:00 /usr/libexec/gsd-xsettings
+maxim       4026  0.0  0.1 265464 25872 ?        Sl   июн22   0:00 /usr/libexec/ibus-x11
+maxim       4028  0.0  0.7 1551260 124188 ?      Sl   июн22   0:20 /usr/libexec/mutter-x11-frames
+maxim       4118  1.6  1.7 34385144 279872 ?     Sl   июн22  27:13 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=gpu-process --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4122  0.1  0.8 33933056 133916 ?     Sl   июн22   2:50 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4130  0.0  0.3 33993144 60624 ?      Sl   июн22   0:06 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=utility --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4188  0.0  0.1 1839676 24488 ?       Sl   июн22   0:00 /usr/bin/snap userd
+maxim       4307  0.4  2.2 1461467168 366684 ?   Sl   июн22   7:20 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=714083494 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4378  0.0  0.0 386384  9144 ?        Sl   июн22   0:00 /usr/libexec/gvfsd-recent --spawner :1.20 /org/gtk/gvfs/exec_spaw/1
+maxim       4411  0.0  0.4 733660 69772 ?        Ssl  июн22   0:37 /usr/libexec/gnome-terminal-server
+maxim       4418  0.0  0.1  20960 17528 pts/0    Ss   июн22   0:03 bash
+maxim       4837  0.0  1.1 1459700180 185428 ?   Sl   июн22   0:11 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=17 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=1718822531 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4847  0.0  0.7 1459688296 125372 ?   Sl   июн22   0:01 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=1718936329 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4897  2.8  3.2 1459793276 527084 ?   Sl   июн22  46:44 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=23 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=1736264450 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4909  0.0  0.7 1459688372 116528 ?   Sl   июн22   0:01 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=24 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=1738240907 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4921  0.0  0.7 1461408552 125904 ?   Sl   июн22   0:12 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=25 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=1739613884 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4930  0.0  0.6 1459688152 109740 ?   Sl   июн22   0:01 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=26 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=1739642904 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       4967  0.2  0.5 34012480 90176 ?      Sl   июн22   4:39 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=ru --service-sandbox-type=none --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       5906  4.5  2.5 1459760552 415664 ?   Sl   июн22  67:52 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=49 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=10975851683 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim       6227  0.4  1.1 2532620 187584 ?      Rl   июн22   6:31 /usr/bin/gnome-control-center
+root        6340  0.0  0.0      0     0 ?        I<   июн22   0:01 [kworker/3:0H-kblockd]
+root        7968  0.0  0.0   6808  5052 ?        Ss   июн23   0:00 /usr/sbin/apache2 -k start
+www-data    7970  0.0  0.0 1933852 5764 ?        Sl   июн23   0:00 /usr/sbin/apache2 -k start
+www-data    7971  0.0  0.0 1933908 6508 ?        Sl   июн23   0:00 /usr/sbin/apache2 -k start
+www-data    8188  0.0  0.0   3620  1664 ?        Ss   июн23   0:00 /usr/bin/htcacheclean -d 120 -p /var/cache/apache2/mod_cache_disk -l 300M -n
+root       11197  0.0  0.0 470340 14924 ?        Ssl  июн23   0:00 /usr/libexec/udisks2/udisksd
+root       26099  0.0  0.0      0     0 ?        S    июн23   0:00 [psimon]
+syslog     26452  0.0  0.0 222564  5544 ?        Ssl  июн23   0:00 /usr/sbin/rsyslogd -n -iNONE
+root       28013  0.0  0.0  42856  5024 ?        Ss   июн23   0:00 /usr/lib/postfix/sbin/master -w
+postfix    28015  0.0  0.0  43400  7784 ?        S    июн23   0:00 qmgr -l -t unix -u
+postfix    28252  0.0  0.0  49680 13536 ?        S    июн23   0:00 tlsmgr -l -t unix -u -c
+maxim      28282  0.1  1.8 1459730068 298788 ?   Sl   июн23   0:37 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=67 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=25806429458 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+root       28308  0.0  0.0      0     0 ?        I<   июн23   0:00 [kworker/2:0H-kblockd]
+root       28626  0.0  0.0      0     0 ?        I<   июн23   0:00 [kworker/3:2H]
+root       28819  0.0  0.0      0     0 ?        S    июн23   0:00 [irq/29-mei_me]
+root       28954  0.0  0.0      0     0 ?        I    июн23   0:00 [kworker/0:1-events]
+root       29486  0.0  0.0      0     0 ?        I<   июн23   0:00 [kworker/2:1H]
+maxim      29585  0.0  0.4 2946952 71668 ?       Sl   июн23   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+maxim      29900  0.4  1.1 1459832876 187592 ?   Sl   июн23   0:23 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=84 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30509303722 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      29936  0.0  0.8 1459702416 144144 ?   Sl   июн23   0:01 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=87 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30513902674 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      29974  0.0  0.8 1459696256 136708 ?   Sl   июн23   0:03 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=89 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30553591031 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      29999  0.2  1.0 1459732444 175160 ?   Sl   июн23   0:12 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=90 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30596662882 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      30061  0.0  0.9 1459718412 153820 ?   Sl   июн23   0:03 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=95 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30606814649 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      30070  0.2  1.6 1459785768 277192 ?   Sl   июн23   0:14 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=96 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30612693858 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      30083  0.0  0.8 1459697728 138488 ?   Sl   июн23   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=97 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30614271081 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      30156  0.0  0.7 1459688500 129492 ?   Sl   июн23   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=101 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30642292353 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      30243  0.0  0.7 1459688576 115536 ?   Sl   июн23   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=109 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=30742721767 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+maxim      30365  0.0  0.0 460364  8984 ?        Sl   июн23   0:00 /usr/libexec/gvfsd-network --spawner :1.20 /org/gtk/gvfs/exec_spaw/2
+maxim      30386  0.0  0.0 388408  9224 ?        Sl   июн23   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.20 /org/gtk/gvfs/exec_spaw/4
+root       34409  0.0  0.0      0     0 ?        I<   июн23   0:02 [kworker/0:0H-radeon-crtc]
+root       34436  0.0  0.0   3212  1732 ?        S    июн23   0:00 sleep 3600
+root       34618  0.0  0.0      0     0 ?        I    июн23   0:00 [kworker/3:2-mm_percpu_wq]
+root       34772  0.0  0.0      0     0 ?        I    июн23   0:00 [kworker/u16:0-events_power_efficient]
+root       36720  0.0  0.0      0     0 ?        I<   июн23   0:00 [kworker/u17:1-ttm]
+root       36778  0.0  0.0      0     0 ?        I<   июн23   0:00 [kworker/0:1H-kblockd]
+root       36779  0.0  0.0      0     0 ?        I    июн23   0:00 [kworker/u16:1-flush-8:16]
+maxim      36793 24.7  1.4 1464930632 242744 ?   Sl   июн23   9:57 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=131 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=33377602844 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+root       36820  0.0  0.0      0     0 ?        I    июн23   0:00 [kworker/1:3-mm_percpu_wq]
+root       36937  0.0  0.0  12020  8192 ?        Ss   июн23   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+postfix    36941  0.0  0.0  43360  8016 ?        S    июн23   0:00 pickup -l -t unix -u -c
+root       37080  0.0  0.0  35480 12108 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+lp         37082  0.0  0.0  16832  6980 ?        S    00:00   0:00 /usr/lib/cups/notifier/dbus dbus://
+cups-br+   37083  0.0  0.1 268520 20352 ?        Ssl  00:00   0:00 /usr/sbin/cups-browsed
+root       37263  0.0  0.0      0     0 ?        I    00:00   0:00 [kworker/3:1-events]
+root       37637  0.0  0.0      0     0 ?        I<   00:02   0:00 [kworker/u17:2-ttm]
+root       39587  0.0  0.0      0     0 ?        I    00:08   0:00 [kworker/u16:2-events_unbound]
+root       40158  0.0  0.0      0     0 ?        I    00:09   0:00 [kworker/2:3-events]
+root       40789  0.0  0.0      0     0 ?        I<   00:11   0:00 [kworker/1:2H-radeon-crtc]
+maxim      41065  0.6  1.1 1459765436 180908 ?   Sl   00:13   0:05 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=139 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=34912016926 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+root       41164  0.0  0.0      0     0 ?        I    00:13   0:00 [kworker/0:2]
+maxim      41207  0.0  0.4 1459671360 70184 ?    Sl   00:13   0:00 /snap/chromium/3117/usr/lib/chromium-browser/chrome --type=renderer --crashpad-handler-pid=3929 --enable-crash-reporter=,snap --change-stack-guard-on-fork=enable --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=141 --time-ticks-at-unix-epoch=-1750599530668976 --launch-time-ticks=34966788233 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,15619868884467301260,2462425750963419992,262144 --disable-features=EyeDropper,TFLiteLanguageDetectionEnabled --variations-seed-version
+root       41301  0.0  0.0      0     0 ?        I    00:14   0:00 [kworker/1:1-cgroup_destroy]
+root       41543  0.0  0.0      0     0 ?        I<   00:18   0:00 [kworker/1:0H-kblockd]
+root       41568  0.0  0.0      0     0 ?        I    00:20   0:00 [kworker/2:0]
+root       41617  0.0  0.0      0     0 ?        I    00:25   0:00 [kworker/u16:3-events_power_efficient]
+root       41632  0.0  0.0  17156  7468 pts/0    S+   00:27   0:00 sudo ./1ex.sh
+root       41633  0.0  0.0  17156  2632 pts/1    Ss   00:27   0:00 sudo ./1ex.sh
+root       41634  0.0  0.0   7344  3648 pts/1    S+   00:27   0:00 /bin/bash ./1ex.sh
+root       41639  0.0  0.0  11220  4848 pts/1    R+   00:27   0:00 ps aux
+
+Открытые порты
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                                                                               
+udp   UNCONN 0      0        224.0.0.251:5353       0.0.0.0:*    users:(("chrome",pid=3846,fd=235))                                                   
+udp   UNCONN 0      0        224.0.0.251:5353       0.0.0.0:*    users:(("chrome",pid=4122,fd=29))                                                    
+udp   UNCONN 0      0            0.0.0.0:5353       0.0.0.0:*    users:(("avahi-daemon",pid=1153,fd=12))                                              
+udp   UNCONN 0      0         127.0.0.54:53         0.0.0.0:*    users:(("systemd-resolve",pid=987,fd=16))                                            
+udp   UNCONN 0      0      127.0.0.53%lo:53         0.0.0.0:*    users:(("systemd-resolve",pid=987,fd=14))                                            
+udp   UNCONN 0      0          127.0.0.1:323        0.0.0.0:*    users:(("chronyd",pid=1749,fd=5))                                                    
+udp   UNCONN 0      0            0.0.0.0:34276      0.0.0.0:*    users:(("avahi-daemon",pid=1153,fd=14))                                              
+udp   UNCONN 0      0               [::]:53865         [::]:*    users:(("avahi-daemon",pid=1153,fd=15))                                              
+udp   UNCONN 0      0               [::]:5353          [::]:*    users:(("avahi-daemon",pid=1153,fd=13))                                              
+udp   UNCONN 0      0              [::1]:323           [::]:*    users:(("chronyd",pid=1749,fd=6))                                                    
+tcp   LISTEN 0      4096       127.0.0.1:631        0.0.0.0:*    users:(("cupsd",pid=37080,fd=8))                                                     
+tcp   LISTEN 0      4096      127.0.0.54:53         0.0.0.0:*    users:(("systemd-resolve",pid=987,fd=17))                                            
+tcp   LISTEN 0      511          0.0.0.0:80         0.0.0.0:*    users:(("apache2",pid=7971,fd=3),("apache2",pid=7970,fd=3),("apache2",pid=7968,fd=3))
+tcp   LISTEN 0      100          0.0.0.0:25         0.0.0.0:*    users:(("master",pid=28013,fd=13))                                                   
+tcp   LISTEN 0      128          0.0.0.0:2022       0.0.0.0:*    users:(("sshd",pid=36937,fd=3))                                                      
+tcp   LISTEN 0      4096   127.0.0.53%lo:53         0.0.0.0:*    users:(("systemd-resolve",pid=987,fd=15))                                            
+tcp   LISTEN 0      4096           [::1]:631           [::]:*    users:(("cupsd",pid=37080,fd=7))                                                     
+tcp   LISTEN 0      100             [::]:25            [::]:*    users:(("master",pid=28013,fd=14))                                                   
+tcp   LISTEN 0      128             [::]:2022          [::]:*    users:(("sshd",pid=36937,fd=4))                                                      
+
+Версия ядра и ОС
+Linux user-2 6.11.0-26-generic #26~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Apr 17 19:20:47 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+PRETTY_NAME="Ubuntu 24.04.2 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.2 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
